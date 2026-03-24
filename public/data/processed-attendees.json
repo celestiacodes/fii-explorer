@@ -39,16 +39,110 @@
     "isTopTarget": false,
     "priorityScore": 0,
     "enriched": {
-      "normalized_name": "Abbas, Khaled",
-      "company_description": "Gulf International Bank - Saudi Arabia is a financial institution offering banking and investment services.",
-      "title_context": "Chief Executive Officer at Gulf International Bank - Saudi Arabia is a professional role aligned with the company's industry focus.",
-      "biography": "Abbas, Khaled serves as Chief Executive Officer at Gulf International Bank - Saudi Arabia. Gulf International Bank - Saudi Arabia is a financial institution offering banking and investment services. In this role, Khaled provides strategic leadership and contributes to Gulf International Bank - Saudi Arabia's growth initiatives. With expertise at the intersection of finance and technology, Khaled helps drive Gulf International Bank - Saudi Arabia's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Gateway to Gulf region expansion; Access to sovereign wealth funds investing in edtech",
-      "additional_tags": [
-        "middle-east"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.031348"
+      "company_details": {
+        "description": "Gulf International Bank (GIB) is a pan-GCC universal bank established in 1975 and regulated by the Central Bank of Bahrain. Headquartered in Manama, Bahrain, GIB provides diverse financial products, services, and bespoke banking solutions to wholesale and retail clients across the GCC, Europe, and North America. The bank operates through subsidiaries including GIB Saudi Arabia, GIB Capital (investment banking), and GIB (UK) Ltd (asset management). GIB focuses on wholesale banking, corporate finance, project finance, and asset management services.",
+        "employee_count": "Approximately 1,000+",
+        "revenue": "Not publicly disclosed (private bank)",
+        "market_cap": "Assets Under Management: $11+ billion (through GIB Asset Management)",
+        "industry": "Banking & Financial Services / Wholesale Banking / GCC Universal Bank",
+        "notable_facts": [
+          "Founded in 1975, licensed by Central Bank of Bahrain",
+          "Pan-GCC presence with operations in Saudi Arabia, Bahrain, UAE, UK, and USA",
+          "GIB Asset Management manages over $11 billion in assets",
+          "Strategic partner for Saudi Vision 2030 projects and GCC infrastructure development",
+          "First GCC-owned asset management firm with global presence in London and New York",
+          "Focus on sustainable finance and ESG initiatives in GCC region",
+          "Member of World Economic Forum and participant in global financial dialogues"
+        ]
+      },
+      "personal_details": {
+        "education": [
+          {
+            "institution": "Lebanese American University, Beirut",
+            "degree": "Bachelor of Science in Business Studies (Banking & Finance)",
+            "year": "1993-1997"
+          },
+          {
+            "institution": "Harvard Business School",
+            "degree": "Executive Education Program",
+            "year": "Various"
+          },
+          {
+            "institution": "Darden Business School, University of Virginia",
+            "degree": "Executive Education Program",
+            "year": "Various"
+          },
+          {
+            "institution": "INSEAD, France",
+            "degree": "Executive Education Program",
+            "year": "Various"
+          }
+        ],
+        "career_path": [
+          {
+            "company": "Banque Saudi Fransi",
+            "title": "Corporate Banking Division",
+            "years": "1997-2005"
+          },
+          {
+            "company": "Samba Financial Group",
+            "title": "Senior roles in wholesale banking",
+            "years": "2005-2011"
+          },
+          {
+            "company": "Abu Dhabi Islamic Bank",
+            "title": "Executive Vice President & Regional Head - Wholesale Banking Group",
+            "years": "2011-2018"
+          },
+          {
+            "company": "Gulf International Bank (GIB)",
+            "title": "UAE Country Head",
+            "years": "2018-2019"
+          },
+          {
+            "company": "Gulf International Bank (GIB)",
+            "title": "Group Head of Wholesale Banking",
+            "years": "2019-2024"
+          },
+          {
+            "company": "Gulf International Bank Saudi Arabia",
+            "title": "CEO",
+            "years": "2024-Present"
+          }
+        ],
+        "recent_news": [
+          "Appointed CEO of GIB Saudi Arabia in March 2024",
+          "Previously served as Group Head of Wholesale Banking at GIB since 2019",
+          "Featured in Arab News 'Who's Who' series for Saudi business leaders",
+          "Quoted in Global Finance Magazine on banking transformation and pandemic response",
+          "Led GIB's wholesale banking expansion across GCC markets",
+          "Active participant in Saudi financial sector development under Vision 2030"
+        ],
+        "expertise": [
+          "Wholesale and corporate banking",
+          "GCC financial markets and cross-border banking",
+          "Islamic banking and finance",
+          "Corporate finance and project financing",
+          "Banking transformation and digitalization",
+          "Relationship management with large corporates and institutions"
+        ],
+        "current_focus": "Leading GIB Saudi Arabia's operations and growth strategy, expanding wholesale banking services in Saudi market, supporting Saudi Vision 2030 financing needs, developing digital banking capabilities, and strengthening GIB's position as a leading GCC universal bank."
+      },
+      "primer_relevance": {
+        "investment_thesis": "As a commercial bank CEO, not a venture investor. However, GIB provides corporate banking, project finance, and advisory services to growth companies. Through GIB Capital (investment banking arm), provides M&A advisory, capital raising, and strategic financing for companies in GCC region. Focus on supporting GCC economic development and Vision 2030 projects.",
+        "portfolio_companies": "N/A (commercial bank, not venture capital). However, GIB provides banking services to portfolio of corporate clients across GCC including technology, infrastructure, energy, and industrial sectors.",
+        "potential_fit": "Primer could engage GIB for corporate banking services if expanding in GCC region. GIB Saudi Arabia could provide banking infrastructure, corporate accounts, and potentially financing for Saudi operations. Connection through education technology sector development under Saudi Vision 2030 human capital goals.",
+        "connection_strategy": "Conference meeting at FII - discuss Primer's potential expansion in Saudi Arabia and GCC region. Explore banking and financial services needs for regional operations. Connection through Saudi Vision 2030 education and technology development themes."
+      },
+      "enrichment_quality": "high",
+      "sources_used": [
+        "web_search",
+        "Gulf International Bank official website",
+        "Wikipedia (Gulf International Bank)",
+        "LinkedIn profile",
+        "News articles (Arab News, Zawya, Global Finance Magazine)",
+        "Press releases and executive profiles"
+      ]
     },
     "tags": [
       "middle-east",
@@ -459,17 +553,85 @@
     "isTopTarget": true,
     "priorityScore": 3,
     "enriched": {
-      "normalized_name": "Abrahimzadeh, Paul",
-      "company_description": "1789 Capital is a venture capital firm investing in late-stage technology companies across AI, software, aerospace, healthtech, and fintech sectors.",
-      "title_context": "Partner at 1789 Capital is a senior investment professional with decision-making authority.",
-      "biography": "Abrahimzadeh, Paul serves as Partner at 1789 Capital. 1789 Capital is a venture capital firm investing in late-stage technology companies across AI, software, aerospace, healthtech, and fintech sectors. In this role, Paul provides strategic leadership and contributes to 1789 Capital's growth initiatives. With expertise at the intersection of finance and technology, Paul helps drive 1789 Capital's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups",
-      "additional_tags": [
-        "investor",
-        "partner-level"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.028507"
+      "company_details": {
+        "description": "1789 Capital is a Palm Beach-based venture capital and growth equity firm founded in 2023 that describes itself as promoting 'patriotic capitalism' and investing in companies that are 'anti-woke' and 'America First'. The firm focuses on backing companies aligned with conservative values and American exceptionalism, investing across sectors including technology, defense, energy, and manufacturing. 1789 Capital has gained prominence through its association with prominent conservative figures and its rapid growth in assets under management.",
+        "employee_count": "Small team (exact size not public)",
+        "revenue": "Venture capital firm - manages ~$1B in assets",
+        "market_cap": "N/A (venture capital firm)",
+        "industry": "Venture Capital / Growth Equity / Conservative-Aligned Investing",
+        "notable_facts": [
+          "Assets under management surpassed $1 billion in September 2025",
+          "Founded by Omeed Malik and Chris Buskirk, joined by Donald Trump Jr. as Senior Partner",
+          "Early backers include Marc Andreessen, Charlie Kirk, and Clay Travis",
+          "Investments typically range from $5 million to $50 million",
+          "Focus on 'patriotic capitalism' and 'America First' investment philosophy",
+          "Portfolio includes defense manufacturing startup Hadrian and other conservative-aligned companies",
+          "Rapid growth from initial target to over $1B AUM following Donald Trump Jr.'s involvement"
+        ]
+      },
+      "personal_details": {
+        "education": [
+          {
+            "institution": "Colgate University",
+            "degree": "Bachelor of Arts in International Relations (Cum Laude)",
+            "year": "1996-2000"
+          }
+        ],
+        "career_path": [
+          {
+            "company": "Citigroup",
+            "title": "Various investment banking roles",
+            "years": "2000-2024"
+          },
+          {
+            "company": "Citigroup",
+            "title": "Head of Equity Capital Markets Syndicate, Americas",
+            "years": "2016-2020"
+          },
+          {
+            "company": "Citigroup",
+            "title": "Co-Head of Equity Capital Markets, North America",
+            "years": "2020-2024"
+          },
+          {
+            "company": "1789 Capital",
+            "title": "Partner",
+            "years": "2024-Present"
+          }
+        ],
+        "recent_news": [
+          "Joined 1789 Capital as Partner in 2024 after 24-year investment banking career at Citigroup",
+          "Featured in media discussing SpaceX IPO and 2025 capital markets outlook",
+          "Recognized as Wall Street veteran with transformative deal experience",
+          "Quoted in Reuters and financial media on venture capital and public markets",
+          "Brought deep capital markets expertise to 1789 Capital's investment team",
+          "Led over 1,000 equity offerings during investment banking career"
+        ],
+        "expertise": [
+          "Equity capital markets and IPO execution",
+          "Investment banking and deal structuring",
+          "Technology sector financing (AI, software, fintech, semiconductors)",
+          "Global capital markets and syndication",
+          "Growth equity and venture capital investing",
+          "Cross-border transactions and complex deal execution"
+        ],
+        "current_focus": "Leading new investment origination, deal structuring, and capital raising at 1789 Capital. Applying deep capital markets expertise to identify and execute growth equity investments in companies aligned with 1789's investment philosophy. Focusing on technology sectors including AI, software, fintech, and digital infrastructure."
+      },
+      "primer_relevance": {
+        "investment_thesis": "Invests $5M-$50M in growth-stage companies aligned with conservative values and 'America First' principles. Focuses on technology, defense, energy, and manufacturing sectors. Looks for companies promoting American exceptionalism, national strength, and traditional values. Particularly interested in AI, software, fintech, and technology infrastructure.",
+        "portfolio_companies": "Hadrian (defense manufacturing startup), other undisclosed growth-stage companies aligned with conservative values. Portfolio still developing as firm is relatively new (founded 2023).",
+        "potential_fit": "Primer's AI-native education platform could align with 1789 Capital's focus on American technology leadership and human capital development. However, potential ideological alignment considerations given 1789's stated 'anti-woke' and conservative value focus. Primer's emphasis on educational excellence and AI innovation could resonate with 'America First' technology leadership narrative.",
+        "connection_strategy": "Conference meeting at FII - focus on Primer's AI technology leadership and potential to strengthen American education competitiveness. Emphasize technology innovation aspects over political dimensions. Connection through shared interest in American technology leadership and human capital development."
+      },
+      "enrichment_quality": "high",
+      "sources_used": [
+        "web_search",
+        "1789 Capital official website",
+        "Wikipedia (1789 Capital)",
+        "LinkedIn profile",
+        "News articles (Reuters, Private Equity Wire, MarketScreener)",
+        "Press releases and media coverage"
+      ]
     },
     "tags": [
       "partner-level",
@@ -1028,17 +1190,84 @@
     "isTopTarget": true,
     "priorityScore": 2,
     "enriched": {
-      "normalized_name": "Akkaraju, Prem",
-      "company_description": "Stability AI is a leading open-source artificial intelligence company known for Stable Diffusion and generative AI models.",
-      "title_context": "CEO at Stability AI is the highest-ranking executive responsible for overall strategy and operations.",
-      "biography": "Akkaraju, Prem serves as CEO at Stability AI. Stability AI is a leading open-source artificial intelligence company known for Stable Diffusion and generative AI models. In this role, Prem provides strategic leadership and contributes to Stability AI's growth initiatives. With expertise at the intersection of finance and technology, Prem helps drive Stability AI's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Technology partnership potential for Primer's AI infrastructure; Expertise in AI product development",
-      "additional_tags": [
-        "executive",
-        "technology"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.030285"
+      "company_details": {
+        "description": "Stability AI is a world-leading open-source generative AI company focused on developing and deploying breakthrough AI models with minimal resource requirements. The company is best known for creating Stable Diffusion, one of the most widely used open-source text-to-image generative AI models. Stability AI develops models across imaging, language, code, audio, video, and 3D content creation, with a strong commitment to open-source principles that allow developers worldwide to freely use, modify, and build applications.",
+        "employee_count": "184-200",
+        "revenue": "Private (estimated less than $5M quarterly revenue)",
+        "market_cap": "Valuation ~$1B (as of June 2024)",
+        "industry": "Artificial Intelligence / Generative AI / Open-Source Software",
+        "notable_facts": [
+          "Created Stable Diffusion, powering over 80% of AI-generated images online in 2023",
+          "Stable Diffusion has been downloaded over 308 million times",
+          "Raised $101M in 2022 and additional $80M in June 2024",
+          "Open-source focus with models available on GitHub and Hugging Face",
+          "Partnerships with AWS (Amazon Bedrock), WPP, and major enterprise customers",
+          "Competitors include OpenAI (DALL-E), Runway AI, Midjourney, and Hugging Face"
+        ]
+      },
+      "personal_details": {
+        "education": [
+          {
+            "institution": "Columbia Business School",
+            "degree": "MBA",
+            "year": "2002-2004"
+          }
+        ],
+        "career_path": [
+          {
+            "company": "JPMorgan Entertainment Partners / SFX Entertainment",
+            "title": "Various roles including Chief Content Officer",
+            "years": "Early career - 2016"
+          },
+          {
+            "company": "The Screening Room (SR Labs)",
+            "title": "Co-founder and CEO",
+            "years": "2016-2020"
+          },
+          {
+            "company": "Weta Digital / WetaFX",
+            "title": "CEO",
+            "years": "2020-2022"
+          },
+          {
+            "company": "Stability AI",
+            "title": "CEO",
+            "years": "2024-Present"
+          }
+        ],
+        "recent_news": [
+          "Appointed CEO of Stability AI in June 2024 as part of $80M funding round",
+          "Led turnaround of Stability AI from financial challenges with new strategy",
+          "Previously served as CEO of Weta Digital during $1.625B sale to Unity Software (2021)",
+          "Executive producer of Oscar-nominated film 'The White Tiger' (2021)",
+          "Featured speaker at TED AI San Francisco 2025 and Brainstorm AI conferences",
+          "Co-founded The Screening Room with Sean Parker, backed by Steven Spielberg, Peter Jackson, Martin Scorsese"
+        ],
+        "expertise": [
+          "Generative AI and open-source model development",
+          "Visual effects and entertainment technology",
+          "Media and content distribution",
+          "Technology commercialization and scaling",
+          "Strategic partnerships in AI and entertainment",
+          "Secure content delivery (holds 26 technology patents)"
+        ],
+        "current_focus": "Leading Stability AI's turnaround and growth strategy, expanding enterprise offerings, developing next-generation generative AI models (Stable Diffusion 3.5+), and forging media/entertainment partnerships."
+      },
+      "primer_relevance": {
+        "investment_thesis": "Not an investor - but as AI industry leader and CEO of major generative AI company, potential strategic partner for Primer's AI-native education platform. Brings deep expertise in AI model development, open-source ecosystems, and commercializing AI technology.",
+        "portfolio_companies": "N/A (operating company executive, not investor)",
+        "potential_fit": "Could provide AI model expertise, technical partnership, or integration opportunities for Primer's pedagogical layer. Stability AI's open-source models could be leveraged for educational content generation. Shared interest in democratizing access to advanced technology.",
+        "connection_strategy": "Conference meeting at FII - discuss AI-education convergence, potential technical collaboration. Emphasize Primer's unique pedagogical approach and how it could leverage Stability AI's models. Connection through shared interest in open-source, democratized access to technology."
+      },
+      "enrichment_quality": "high",
+      "sources_used": [
+        "web_search",
+        "Wikipedia (Prem Akkaraju, Stability AI)",
+        "Stability AI official website",
+        "LinkedIn profile",
+        "News articles (Reuters, Deadline, VentureBeat)",
+        "Company databases (PitchBook, Tracxn)"
+      ]
     },
     "tags": [
       "executive",
@@ -1363,7 +1592,98 @@
     "linkedin_url": "https://www.linkedin.com/in/tala-aljabri",
     "category": "Other",
     "isTopTarget": true,
-    "priorityScore": 4
+    "priorityScore": 4,
+    "enriched": {
+      "company_details": {
+        "description": "Wyld VC is the first AI-native venture capital firm in the MENA region, founded in 2025 with a $50 million early-stage fund focused on backing the AI revolution. The firm invests in transformative AI startups across the Middle East and Silicon Valley, bridging the gap between MENA talent and global AI innovation. Wyld VC provides capital, strategic guidance, and ecosystem access to early-stage AI companies, with a mission to accelerate the region's transformation into a global AI leader.",
+        "employee_count": "Small team (exact size not public)",
+        "revenue": "Venture capital firm - manages $50M fund",
+        "market_cap": "N/A (venture capital firm)",
+        "industry": "Venture Capital / Artificial Intelligence / Early-Stage Technology",
+        "notable_facts": [
+          "First AI-focused venture capital fund in the MENA region",
+          "$50 million fund launched in May 2025",
+          "Backed by Lawrence Golub family office and other institutional investors",
+          "Focus on AI startups across MENA and Silicon Valley",
+          "Strategic advisor to L Catterton Asia (world's premier PE firm for luxury/consumer brands)",
+          "Part of Saudi Arabia's Vision 2030 initiative to diversify economy through technology"
+        ]
+      },
+      "personal_details": {
+        "education": [
+          {
+            "institution": "The Wharton School, University of Pennsylvania",
+            "degree": "MBA",
+            "year": "2015-2017"
+          },
+          {
+            "institution": "Harvard University",
+            "degree": "Master of Public Administration (MPA)",
+            "year": "2013-2015"
+          },
+          {
+            "institution": "McGill University",
+            "degree": "Bachelor of Commerce in Finance & Women's Studies",
+            "year": "2009-2013"
+          }
+        ],
+        "career_path": [
+          {
+            "company": "SoftBank Vision Fund",
+            "title": "Investor",
+            "years": "2018-2020"
+          },
+          {
+            "company": "HOF Capital",
+            "title": "Partner / General Partner",
+            "years": "2020-2024"
+          },
+          {
+            "company": "Various leading VCs including a16z",
+            "title": "Strategic Advisor",
+            "years": "2023-2024"
+          },
+          {
+            "company": "Wyld VC",
+            "title": "Founder & Managing Partner",
+            "years": "2025-Present"
+          }
+        ],
+        "recent_news": [
+          "Launched Wyld VC with $50M AI-focused fund in May 2025",
+          "Named Woman of the Year 2022 in Finance by Arabian Business",
+          "First woman to serve as partner at a venture capital firm in Saudi Arabia",
+          "Regular contributor to Forbes Magazine and Entrepreneur",
+          "Featured speaker at Techstars Investor Day, Atlantic Council events, and MENA tech conferences",
+          "Active angel investor with portfolio including Tabby (MENA fintech) and Starcloud (US startup)"
+        ],
+        "expertise": [
+          "Early-stage AI and technology investing",
+          "FinTech and enterprise software",
+          "Emerging markets (MENA region focus)",
+          "Financial modeling and valuation",
+          "Cross-border investment between MENA and Silicon Valley",
+          "Strategic advisory for portfolio companies and governments"
+        ],
+        "current_focus": "Building Wyld VC as the leading AI venture capital firm in MENA, sourcing and investing in transformative AI startups, fostering US-Middle East technology ties, and supporting Saudi Arabia's Vision 2030 through technology ecosystem development."
+      },
+      "primer_relevance": {
+        "investment_thesis": "Invests in early-stage AI companies across MENA and Silicon Valley, with check sizes typically $500K-$2M. Focus areas include AI-native applications, enterprise AI, fintech AI, and transformative technology platforms. Particularly interested in startups bridging US and MENA markets.",
+        "portfolio_companies": "Tabby (MENA buy-now-pay-later fintech), Starcloud (US AI startup), various early-stage AI companies across MENA and Silicon Valley. As a new fund (2025), portfolio still developing.",
+        "potential_fit": "Primer fits perfectly with Wyld VC's thesis: AI-native education platform with potential for MENA expansion. Primer's pedagogical orchestration layer above frontier LLMs aligns with Wyld's focus on transformative AI applications. Potential for cross-border growth between US and MENA education markets.",
+        "connection_strategy": "Direct pitch at FII - emphasize Primer's AI-native architecture and potential for MENA expansion. Highlight alignment with Saudi Vision 2030 education goals. Connection through shared interest in AI transformation and cross-border technology scaling."
+      },
+      "enrichment_quality": "high",
+      "sources_used": [
+        "web_search",
+        "Wyld VC official website",
+        "Crunchbase profile",
+        "LinkedIn profile",
+        "News articles (Arab News, Wamda, Bloomberg)",
+        "The Org company profile",
+        "Event speaker profiles"
+      ]
+    }
   },
   {
     "number": 83,
@@ -1879,20 +2199,106 @@
     "isTopTarget": true,
     "priorityScore": 6,
     "enriched": {
-      "normalized_name": "Al-Rumayyan, H.E. Yasir",
-      "company_description": "Public Investment Fund (PIF) is Saudi Arabia's $900B+ sovereign wealth fund, investing globally in technology, infrastructure, and strategic sectors as part of Vision 2030.",
-      "title_context": "Governor of PIF oversees Saudi Arabia's $900B+ sovereign wealth fund and its global investment strategy.",
-      "biography": "Al-Rumayyan, H.E. Yasir serves as Governor of the Public at Investment Fund (PIF) Chairman, Saudi Aramco & Chairman, FII Institute Public Investment Fund. Public Investment Fund (PIF) is Saudi Arabia's $900B+ sovereign wealth fund, investing globally in technology, infrastructure, and strategic sectors as part of Vision 2030. In this role, H.E. Yasir provides strategic leadership and contributes to Investment Fund (PIF) Chairman, Saudi Aramco & Chairman, FII Institute Public Investment Fund's growth initiatives. With expertise at the intersection of finance and technology, H.E. Yasir helps drive Investment Fund (PIF) Chairman, Saudi Aramco & Chairman, FII Institute Public Investment Fund's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups; Technology partnership potential for Primer's AI infrastructure",
-      "additional_tags": [
-        "investor",
-        "sovereign-leadership",
-        "middle-east",
-        "sovereign-wealth",
-        "technology"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.028571"
+      "company_details": {
+        "description": "The Public Investment Fund (PIF) is the sovereign wealth fund of the Kingdom of Saudi Arabia, established in 1971 to invest funds on behalf of the Saudi government. PIF is one of the world's largest and most influential sovereign wealth funds, serving as the primary investment vehicle for Saudi Arabia's economic diversification under Vision 2030. The fund makes strategic investments across sectors including technology, infrastructure, renewable energy, entertainment, and tourism, both domestically and internationally.",
+        "employee_count": "Approximately 2,500+",
+        "revenue": "N/A (sovereign wealth fund)",
+        "market_cap": "Assets Under Management: $913 billion (as of 2024), targeting $1.07 trillion by 2025",
+        "industry": "Sovereign Wealth Fund / Government Investment",
+        "notable_facts": [
+          "World's 5th largest sovereign wealth fund by assets under management",
+          "Targeting $2 trillion AUM by 2030",
+          "Owns 8% of global sovereign wealth fund assets",
+          "Major investments include: Uber ($3.5B), Lucid Motors, SoftBank Vision Fund, Newcastle United FC",
+          "Key driver of Saudi Vision 2030 economic transformation",
+          "Manages stakes in Saudi Aramco (8% ownership, valued at ~$160B)",
+          "Leading developer of NEOM, Red Sea Project, Qiddiya, and other Saudi megaprojects"
+        ]
+      },
+      "personal_details": {
+        "education": [
+          {
+            "institution": "King Faisal University",
+            "degree": "Bachelor of Accounting",
+            "year": "1993"
+          },
+          {
+            "institution": "Harvard Business School",
+            "degree": "General Management Program (executive education)",
+            "year": "2007"
+          }
+        ],
+        "career_path": [
+          {
+            "company": "Saudi Hollandi Bank",
+            "title": "Various roles including Head of International Brokerage",
+            "years": "1994-2004"
+          },
+          {
+            "company": "Saudi Fransi Capital",
+            "title": "CEO",
+            "years": "2004-2014"
+          },
+          {
+            "company": "Capital Market Authority (Saudi Arabia)",
+            "title": "Board Member",
+            "years": "2014-2015"
+          },
+          {
+            "company": "Public Investment Fund (PIF)",
+            "title": "Managing Director",
+            "years": "2015-2019"
+          },
+          {
+            "company": "Public Investment Fund (PIF)",
+            "title": "Governor",
+            "years": "2019-Present"
+          },
+          {
+            "company": "Saudi Aramco",
+            "title": "Chairman",
+            "years": "2019-Present"
+          },
+          {
+            "company": "Reliance Industries (India)",
+            "title": "Independent Director",
+            "years": "2024-Present"
+          }
+        ],
+        "recent_news": [
+          "Appointed Chairman of Saudi Aramco in 2019 (world's most valuable energy company)",
+          "Joined Reliance Industries board as independent director in June 2024",
+          "Featured in Fortune's 100 Most Powerful People in Business (2024)",
+          "Host of 'Davos in the Desert' (Future Investment Initiative annual conference)",
+          "Led PIF's 19% AUM growth to $913B in 2024",
+          "Oversaw major investments in gaming (Savvy Games Group $38B), sports (Newcastle United, LIV Golf), and technology"
+        ],
+        "expertise": [
+          "Sovereign wealth fund management and strategy",
+          "Economic diversification and Vision 2030 implementation",
+          "Global capital markets and cross-border investments",
+          "Energy sector leadership (oil & gas)",
+          "Megaproject development and financing",
+          "Public-private partnerships and economic transformation"
+        ],
+        "current_focus": "Leading PIF toward $1.07 trillion AUM target by 2025, executing Saudi Vision 2030 diversification strategy, managing global investment portfolio, overseeing Saudi Aramco as Chairman, and developing Saudi megaprojects like NEOM."
+      },
+      "primer_relevance": {
+        "investment_thesis": "PIF invests across sectors supporting Saudi Vision 2030 diversification, including education technology and human capital development. While not a traditional VC, PIF makes strategic investments in technology companies that align with national transformation goals. Check sizes range from $100M to multi-billion dollar commitments for strategic partnerships.",
+        "portfolio_companies": "Uber, Lucid Motors, SoftBank Vision Fund, Magic Leap, Jio Platforms (India), numerous Saudi megaprojects (NEOM, Red Sea Project, Qiddiya). Education technology investments through PIF's focus on human capital development under Vision 2030.",
+        "potential_fit": "Primer aligns with PIF's Vision 2030 education and human capital development goals. As an AI-native education platform, Primer could support Saudi Arabia's ambition to become a knowledge economy. Potential for strategic partnership or investment to support education transformation in Saudi Arabia and MENA region.",
+        "connection_strategy": "High-level meeting at FII - focus on strategic alignment with Vision 2030 education goals. Emphasize Primer's potential to support Saudi human capital development and knowledge economy transformation. Connection through education technology and AI transformation themes relevant to Saudi diversification."
+      },
+      "enrichment_quality": "high",
+      "sources_used": [
+        "web_search",
+        "Wikipedia (Yasir Al-Rumayyan, Public Investment Fund)",
+        "PIF official website",
+        "FII Institute profile",
+        "LinkedIn profile",
+        "News articles (Fortune, NY Times, CNBC, Arab News)",
+        "Sovereign wealth fund databases"
+      ]
     },
     "tags": [
       "investor",
@@ -7079,7 +7485,7 @@
     "number": 631,
     "name": "Cisneros, Adriana",
     "title": "CEO",
-    "company": "Cisneros ■ FAMILY / ASSOCIATED YACHT ■ Family Yacht: Lionwind (47m, ~$10M) [Gustavo Cisneros, father]",
+    "company": "Cisneros \u25a0 FAMILY / ASSOCIATED YACHT \u25a0 Family Yacht: Lionwind (47m, ~$10M) [Gustavo Cisneros, father]",
     "linkedin_url": "https://www.linkedin.com/in/mauricio-claver-carone",
     "category": "Other",
     "isTopTarget": false,
@@ -7629,7 +8035,7 @@
     "number": 686,
     "name": "Dangote, Aliko",
     "title": "President",
-    "company": "Dangote Group ■ CONFIRMED YACHT OWNER ■ Yacht: Mariya (33m, ~$5M)",
+    "company": "Dangote Group \u25a0 CONFIRMED YACHT OWNER \u25a0 Yacht: Mariya (33m, ~$5M)",
     "linkedin_url": "https://www.linkedin.com/in/nd-dashdorj-onom",
     "category": "Other",
     "isTopTarget": false,
@@ -11244,7 +11650,7 @@
     "number": 1044,
     "name": "Hovnanian, Ara",
     "title": "CEO",
-    "company": "Hovnanian Enterprises ■ FAMILY / ASSOCIATED YACHT ■ Family Yacht: Lady Anna (37m, ~$10M) [Hirair Hovnanian, father]",
+    "company": "Hovnanian Enterprises \u25a0 FAMILY / ASSOCIATED YACHT \u25a0 Family Yacht: Lady Anna (37m, ~$10M) [Hirair Hovnanian, father]",
     "linkedin_url": "https://www.linkedin.com/in/siyu-huang",
     "category": "Tech/AI",
     "isTopTarget": false,
@@ -11984,7 +12390,7 @@
     "number": 1118,
     "name": "Juffali, Khaled",
     "title": "Chairman",
-    "company": "E.A. Juffali & Brothers ■ CONFIRMED YACHT OWNER ■ Yacht: Kolaha (63m, ~$70M)",
+    "company": "E.A. Juffali & Brothers \u25a0 CONFIRMED YACHT OWNER \u25a0 Yacht: Kolaha (63m, ~$70M)",
     "linkedin_url": "https://www.linkedin.com/in/daniel-kahan",
     "category": "Other",
     "isTopTarget": false,
@@ -12094,7 +12500,7 @@
     "number": 1129,
     "name": "Kamel, Abdullah",
     "title": "Chairman",
-    "company": "Dallah Al Baraka Holding Group ■ CONFIRMED YACHT OWNER ■ Yacht: Naia (74m, ~$100M) [Dallah al Baraka Group]",
+    "company": "Dallah Al Baraka Holding Group \u25a0 CONFIRMED YACHT OWNER \u25a0 Yacht: Naia (74m, ~$100M) [Dallah al Baraka Group]",
     "linkedin_url": "https://www.linkedin.com/in/mostafakandil",
     "category": "Tech/AI",
     "isTopTarget": false,
@@ -13196,16 +13602,16 @@
     "number": 1237,
     "name": "Lee, Isaac",
     "title": "Chairman",
-    "company": "HYBE Latin América",
+    "company": "HYBE Latin Am\u00e9rica",
     "linkedin_url": "https://www.linkedin.com/in/tony-lefebvre",
     "category": "Other",
     "isTopTarget": false,
     "priorityScore": 0,
     "enriched": {
       "normalized_name": "Lee, Isaac",
-      "company_description": "HYBE Latin América is a professional services firm in the financial or technology sectors.",
-      "title_context": "Chairman at HYBE Latin América provides board-level strategic guidance.",
-      "biography": "Lee, Isaac serves as Chairman at HYBE Latin América. HYBE Latin América is a professional services firm in the financial or technology sectors. In this role, Isaac provides strategic leadership and contributes to HYBE Latin América's growth initiatives. With expertise at the intersection of finance and technology, Isaac helps drive HYBE Latin América's mission forward in a competitive market.",
+      "company_description": "HYBE Latin Am\u00e9rica is a professional services firm in the financial or technology sectors.",
+      "title_context": "Chairman at HYBE Latin Am\u00e9rica provides board-level strategic guidance.",
+      "biography": "Lee, Isaac serves as Chairman at HYBE Latin Am\u00e9rica. HYBE Latin Am\u00e9rica is a professional services firm in the financial or technology sectors. In this role, Isaac provides strategic leadership and contributes to HYBE Latin Am\u00e9rica's growth initiatives. With expertise at the intersection of finance and technology, Isaac helps drive HYBE Latin Am\u00e9rica's mission forward in a competitive market.",
       "primer_relevance": "Potential indirect relevance through finance/technology networks",
       "additional_tags": [
         "board-level"
@@ -13532,7 +13938,7 @@
     "number": 1269,
     "name": "Londono, Nicolas",
     "title": "Managing Partner",
-    "company": "FRAM Capital / SAMAÚMA",
+    "company": "FRAM Capital / SAMA\u00daMA",
     "linkedin_url": "https://www.linkedin.com/in/alessiolorusso",
     "category": "Investors",
     "isTopTarget": true,
@@ -13560,7 +13966,7 @@
   },
   {
     "number": 1272,
-    "name": "López, Diego",
+    "name": "L\u00f3pez, Diego",
     "title": "CEO",
     "company": "Global SWF",
     "linkedin_url": "https://www.linkedin.com/in/fation-losha",
@@ -14121,7 +14527,7 @@
   },
   {
     "number": 1327,
-    "name": "Martel, Éric",
+    "name": "Martel, \u00c9ric",
     "title": "CEO",
     "company": "Bombardier",
     "linkedin_url": "https://www.linkedin.com/in/robert-masson",
@@ -14471,7 +14877,7 @@
   },
   {
     "number": 1362,
-    "name": "Medina, María Laura",
+    "name": "Medina, Mar\u00eda Laura",
     "title": "CEO",
     "company": "MYST",
     "linkedin_url": "https://www.linkedin.com/in/hadi-melki",
@@ -14531,7 +14937,7 @@
   },
   {
     "number": 1368,
-    "name": "Melo, Germán",
+    "name": "Melo, Germ\u00e1n",
     "title": "Vice President",
     "company": "Central & Eastern European Trade Center",
     "linkedin_url": "https://www.linkedin.com/in/justis-mendez",
@@ -15837,7 +16243,7 @@
   },
   {
     "number": 1497,
-    "name": "Ocampo, Andrés",
+    "name": "Ocampo, Andr\u00e9s",
     "title": "CEO",
     "company": "Lanco Medical Group",
     "linkedin_url": "https://www.linkedin.com/in/sunny-oller",
@@ -16449,7 +16855,7 @@
     "number": 1558,
     "name": "Penske, Mark",
     "title": "CEO",
-    "company": "United Atlantic Capital ■ FAMILY / ASSOCIATED YACHT ■ Family Yacht: Podium (73m, ~$125M) [Roger Penske, family]",
+    "company": "United Atlantic Capital \u25a0 FAMILY / ASSOCIATED YACHT \u25a0 Family Yacht: Podium (73m, ~$125M) [Roger Penske, family]",
     "linkedin_url": "https://www.linkedin.com/in/michaelpetley",
     "category": "Investors",
     "isTopTarget": false,
@@ -16737,7 +17143,7 @@
   },
   {
     "number": 1587,
-    "name": "Prince Proulx, Véronique",
+    "name": "Prince Proulx, V\u00e9ronique",
     "title": "Manager, Communications",
     "company": "Bombardier",
     "linkedin_url": "https://www.linkedin.com/in/sasha-qadri",
@@ -17738,7 +18144,7 @@
     "number": 1685,
     "name": "Salinas Pliego, Ricardo B.",
     "title": "Founder",
-    "company": "Grupo Salinas ■ CONFIRMED YACHT OWNER ■ Yacht: Lady Moura (104m, ~$250M)",
+    "company": "Grupo Salinas \u25a0 CONFIRMED YACHT OWNER \u25a0 Yacht: Lady Moura (104m, ~$250M)",
     "linkedin_url": "https://www.linkedin.com/in/mohamednizar-sanadiki",
     "category": "Other",
     "isTopTarget": false,
@@ -17928,7 +18334,7 @@
     "number": 1704,
     "name": "Saylor, Michael",
     "title": "Chairman",
-    "company": "MicroStrategy ■ CONFIRMED YACHT OWNER ■ Yachts: Harle (45m, ~$30M) & Usher (47m, ~$15M)",
+    "company": "MicroStrategy \u25a0 CONFIRMED YACHT OWNER \u25a0 Yachts: Harle (45m, ~$30M) & Usher (47m, ~$15M)",
     "linkedin_url": "https://www.linkedin.com/in/christian-schroeder",
     "category": "Other",
     "isTopTarget": false,
@@ -19516,7 +19922,7 @@
   },
   {
     "number": 1863,
-    "name": "Trigueiro, Márcio",
+    "name": "Trigueiro, M\u00e1rcio",
     "title": "Partner",
     "company": "Patria Investments",
     "linkedin_url": "https://www.linkedin.com/in/michaeltymchuk",
@@ -19715,7 +20121,7 @@
   },
   {
     "number": 1881,
-    "name": "Vallée, Esther",
+    "name": "Vall\u00e9e, Esther",
     "title": "Lead Marketing Strategy |",
     "company": "Americas Bombardier",
     "linkedin_url": "https://www.linkedin.com/in/nicole-vasquez",
