@@ -20311,24 +20311,29 @@
     "category": "Middle East/Investors",
     "employee_count": "500+",
     "location": "Riyadh, Saudi Arabia",
-    "enriched_bio": {
-      "company_details": "Public Investment Fund (PIF) is Saudi Arabia's sovereign wealth fund with over $900B in assets under management, driving Vision 2030 economic diversification. It has invested heavily in technology, tourism, and renewable energy sectors globally.",
-      "education_background": "MBA from King Saud University, extensive finance and investment experience.",
-      "career_highlights": "Former Chairman of Saudi Aramco, instrumental in the company's $2T IPO. Oversees PIF's transformation into a global investment powerhouse with stakes in Uber, Lucid Motors, and SoftBank Vision Fund.",
-      "recent_news": "Recently announced $40B investment in AI and technology through partnerships with Andreessen Horowitz and other Silicon Valley firms.",
-      "primer_relevance": "PIF's $50B education technology initiative under Vision 2030 aligns perfectly with Primer's AI-native education platform. Potential strategic investor for Middle East expansion.",
-      "conversation_starters": [
-        "How does PIF's education technology strategy align with Saudi Vision 2030 goals?",
-        "What role does AI play in PIF's investment thesis for the next decade?",
-        "How is PIF thinking about human capital development as part of economic transformation?"
-      ],
-      "employee_count": "500+",
-      "funding_raised": "Not specified",
-      "location": "Riyadh, Saudi Arabia",
-      "tags": [
-        "middle-east",
-        "investor"
-      ]
+    "number": 1949,
+    "isTopTarget": false,
+    "priorityScore": 0,
+    "enriched": {
+      "enriched_bio": {
+        "company_details": "Public Investment Fund (PIF) is Saudi Arabia's sovereign wealth fund with over $900B in assets under management, driving Vision 2030 economic diversification. It has invested heavily in technology, tourism, and renewable energy sectors globally.",
+        "education_background": "MBA from King Saud University, extensive finance and investment experience.",
+        "career_highlights": "Former Chairman of Saudi Aramco, instrumental in the company's $2T IPO. Oversees PIF's transformation into a global investment powerhouse with stakes in Uber, Lucid Motors, and SoftBank Vision Fund.",
+        "recent_news": "Recently announced $40B investment in AI and technology through partnerships with Andreessen Horowitz and other Silicon Valley firms.",
+        "primer_relevance": "PIF's $50B education technology initiative under Vision 2030 aligns perfectly with Primer's AI-native education platform. Potential strategic investor for Middle East expansion.",
+        "conversation_starters": [
+          "How does PIF's education technology strategy align with Saudi Vision 2030 goals?",
+          "What role does AI play in PIF's investment thesis for the next decade?",
+          "How is PIF thinking about human capital development as part of economic transformation?"
+        ],
+        "employee_count": "500+",
+        "funding_raised": "Not specified",
+        "location": "Riyadh, Saudi Arabia",
+        "tags": [
+          "middle-east",
+          "investor"
+        ]
+      }
     }
   },
   {
@@ -20339,24 +20344,29 @@
     "category": "Tech/Crypto",
     "employee_count": "900+",
     "location": "San Francisco, USA",
-    "enriched_bio": {
-      "company_details": "Ripple is a leading technology company focused on digital payments and blockchain technology. Known for innovation in its sector.",
-      "education_background": "Typically Ivy League or top-tier university backgrounds in computer science, business, or related fields.",
-      "career_highlights": "Seasoned executive with track record of scaling technology companies, leading product innovation, and driving market expansion.",
-      "recent_news": "Recent funding rounds or product launches in AI/technology space.",
-      "primer_relevance": "Potential technology partner, investor, or customer for Primer's AI-native education platform. Expertise in AI deployment valuable for pedagogical orchestration layer.",
-      "conversation_starters": [
-        "How do you see AI transforming education and workforce development?",
-        "What are the biggest challenges in deploying AI at scale in regulated industries?",
-        "How does your company think about the ethical implications of AI in education?"
-      ],
-      "employee_count": "900+",
-      "funding_raised": "Not specified",
-      "location": "San Francisco, USA",
-      "tags": [
-        "tech",
-        "crypto"
-      ]
+    "number": 1950,
+    "isTopTarget": false,
+    "priorityScore": 0,
+    "enriched": {
+      "enriched_bio": {
+        "company_details": "Ripple is a leading technology company focused on digital payments and blockchain technology. Known for innovation in its sector.",
+        "education_background": "Typically Ivy League or top-tier university backgrounds in computer science, business, or related fields.",
+        "career_highlights": "Seasoned executive with track record of scaling technology companies, leading product innovation, and driving market expansion.",
+        "recent_news": "Recent funding rounds or product launches in AI/technology space.",
+        "primer_relevance": "Potential technology partner, investor, or customer for Primer's AI-native education platform. Expertise in AI deployment valuable for pedagogical orchestration layer.",
+        "conversation_starters": [
+          "How do you see AI transforming education and workforce development?",
+          "What are the biggest challenges in deploying AI at scale in regulated industries?",
+          "How does your company think about the ethical implications of AI in education?"
+        ],
+        "employee_count": "900+",
+        "funding_raised": "Not specified",
+        "location": "San Francisco, USA",
+        "tags": [
+          "tech",
+          "crypto"
+        ]
+      }
     }
   },
   {
@@ -20367,24 +20377,29 @@
     "category": "Tech/AI",
     "employee_count": "86,000+",
     "location": "Menlo Park, USA",
-    "enriched_bio": {
-      "company_details": "Meta is a leading technology company focused on AI research and development. Known for innovation in its sector.",
-      "education_background": "Typically Ivy League or top-tier university backgrounds in computer science, business, or related fields.",
-      "career_highlights": "Seasoned executive with track record of scaling technology companies, leading product innovation, and driving market expansion.",
-      "recent_news": "Recent funding rounds or product launches in AI/technology space.",
-      "primer_relevance": "Potential technology partner, investor, or customer for Primer's AI-native education platform. Expertise in AI deployment valuable for pedagogical orchestration layer.",
-      "conversation_starters": [
-        "How do you see AI transforming education and workforce development?",
-        "What are the biggest challenges in deploying AI at scale in regulated industries?",
-        "How does your company think about the ethical implications of AI in education?"
-      ],
-      "employee_count": "86,000+",
-      "funding_raised": "Not specified",
-      "location": "Menlo Park, USA",
-      "tags": [
-        "tech",
-        "ai"
-      ]
+    "number": 1951,
+    "isTopTarget": false,
+    "priorityScore": 0,
+    "enriched": {
+      "enriched_bio": {
+        "company_details": "Meta is a leading technology company focused on AI research and development. Known for innovation in its sector.",
+        "education_background": "Typically Ivy League or top-tier university backgrounds in computer science, business, or related fields.",
+        "career_highlights": "Seasoned executive with track record of scaling technology companies, leading product innovation, and driving market expansion.",
+        "recent_news": "Recent funding rounds or product launches in AI/technology space.",
+        "primer_relevance": "Potential technology partner, investor, or customer for Primer's AI-native education platform. Expertise in AI deployment valuable for pedagogical orchestration layer.",
+        "conversation_starters": [
+          "How do you see AI transforming education and workforce development?",
+          "What are the biggest challenges in deploying AI at scale in regulated industries?",
+          "How does your company think about the ethical implications of AI in education?"
+        ],
+        "employee_count": "86,000+",
+        "funding_raised": "Not specified",
+        "location": "Menlo Park, USA",
+        "tags": [
+          "tech",
+          "ai"
+        ]
+      }
     }
   },
   {
@@ -20395,25 +20410,30 @@
     "category": "AI/EdTech",
     "employee_count": "50+",
     "location": "Stanford, USA",
-    "enriched_bio": {
-      "company_details": "World Labs / Stanford University is a leading technology company focused on AI research and development. Known for innovation in its sector.",
-      "education_background": "Typically Ivy League or top-tier university backgrounds in computer science, business, or related fields.",
-      "career_highlights": "Seasoned executive with track record of scaling technology companies, leading product innovation, and driving market expansion.",
-      "recent_news": "Recent funding rounds or product launches in AI/technology space.",
-      "primer_relevance": "Potential technology partner, investor, or customer for Primer's AI-native education platform. Expertise in AI deployment valuable for pedagogical orchestration layer.",
-      "conversation_starters": [
-        "How do you see AI transforming education and workforce development?",
-        "What are the biggest challenges in deploying AI at scale in regulated industries?",
-        "How does your company think about the ethical implications of AI in education?"
-      ],
-      "employee_count": "50+",
-      "funding_raised": "Not specified",
-      "location": "Stanford, USA",
-      "tags": [
-        "tech",
-        "ai",
-        "edtech"
-      ]
+    "number": 1952,
+    "isTopTarget": false,
+    "priorityScore": 0,
+    "enriched": {
+      "enriched_bio": {
+        "company_details": "World Labs / Stanford University is a leading technology company focused on AI research and development. Known for innovation in its sector.",
+        "education_background": "Typically Ivy League or top-tier university backgrounds in computer science, business, or related fields.",
+        "career_highlights": "Seasoned executive with track record of scaling technology companies, leading product innovation, and driving market expansion.",
+        "recent_news": "Recent funding rounds or product launches in AI/technology space.",
+        "primer_relevance": "Potential technology partner, investor, or customer for Primer's AI-native education platform. Expertise in AI deployment valuable for pedagogical orchestration layer.",
+        "conversation_starters": [
+          "How do you see AI transforming education and workforce development?",
+          "What are the biggest challenges in deploying AI at scale in regulated industries?",
+          "How does your company think about the ethical implications of AI in education?"
+        ],
+        "employee_count": "50+",
+        "funding_raised": "Not specified",
+        "location": "Stanford, USA",
+        "tags": [
+          "tech",
+          "ai",
+          "edtech"
+        ]
+      }
     }
   },
   {
@@ -20424,23 +20444,28 @@
     "category": "Investors/Finance",
     "employee_count": "310,000+",
     "location": "New York, USA",
-    "enriched_bio": {
-      "company_details": "JPMorgan Chase is a global investment bank with significant assets under management and portfolio companies.",
-      "education_background": "Top-tier business school or finance background.",
-      "career_highlights": "Extensive experience in investment banking, venture capital, or asset management with successful track record of investments and exits.",
-      "recent_news": "Recent fund closures or notable portfolio company exits.",
-      "primer_relevance": "Potential seed or Series A investor for Primer. Experience in edtech or AI investments valuable for growth strategy.",
-      "conversation_starters": [
-        "What's your investment thesis for AI-native education platforms?",
-        "How do you evaluate founder-market fit in the edtech space?",
-        "What metrics matter most for early-stage AI companies?"
-      ],
-      "employee_count": "310,000+",
-      "funding_raised": "Not specified",
-      "location": "New York, USA",
-      "tags": [
-        "investor"
-      ]
+    "number": 1953,
+    "isTopTarget": false,
+    "priorityScore": 0,
+    "enriched": {
+      "enriched_bio": {
+        "company_details": "JPMorgan Chase is a global investment bank with significant assets under management and portfolio companies.",
+        "education_background": "Top-tier business school or finance background.",
+        "career_highlights": "Extensive experience in investment banking, venture capital, or asset management with successful track record of investments and exits.",
+        "recent_news": "Recent fund closures or notable portfolio company exits.",
+        "primer_relevance": "Potential seed or Series A investor for Primer. Experience in edtech or AI investments valuable for growth strategy.",
+        "conversation_starters": [
+          "What's your investment thesis for AI-native education platforms?",
+          "How do you evaluate founder-market fit in the edtech space?",
+          "What metrics matter most for early-stage AI companies?"
+        ],
+        "employee_count": "310,000+",
+        "funding_raised": "Not specified",
+        "location": "New York, USA",
+        "tags": [
+          "investor"
+        ]
+      }
     }
   },
   {
@@ -20451,24 +20476,29 @@
     "category": "Investors/Crypto",
     "employee_count": "400+",
     "location": "New York, USA",
-    "enriched_bio": {
-      "company_details": "Galaxy Digital is a cryptocurrency investment firm with significant assets under management and portfolio companies.",
-      "education_background": "Top-tier business school or finance background.",
-      "career_highlights": "Extensive experience in investment banking, venture capital, or asset management with successful track record of investments and exits.",
-      "recent_news": "Recent fund closures or notable portfolio company exits.",
-      "primer_relevance": "Potential seed or Series A investor for Primer. Experience in edtech or AI investments valuable for growth strategy.",
-      "conversation_starters": [
-        "What's your investment thesis for AI-native education platforms?",
-        "How do you evaluate founder-market fit in the edtech space?",
-        "What metrics matter most for early-stage AI companies?"
-      ],
-      "employee_count": "400+",
-      "funding_raised": "Not specified",
-      "location": "New York, USA",
-      "tags": [
-        "investor",
-        "crypto"
-      ]
+    "number": 1954,
+    "isTopTarget": false,
+    "priorityScore": 0,
+    "enriched": {
+      "enriched_bio": {
+        "company_details": "Galaxy Digital is a cryptocurrency investment firm with significant assets under management and portfolio companies.",
+        "education_background": "Top-tier business school or finance background.",
+        "career_highlights": "Extensive experience in investment banking, venture capital, or asset management with successful track record of investments and exits.",
+        "recent_news": "Recent fund closures or notable portfolio company exits.",
+        "primer_relevance": "Potential seed or Series A investor for Primer. Experience in edtech or AI investments valuable for growth strategy.",
+        "conversation_starters": [
+          "What's your investment thesis for AI-native education platforms?",
+          "How do you evaluate founder-market fit in the edtech space?",
+          "What metrics matter most for early-stage AI companies?"
+        ],
+        "employee_count": "400+",
+        "funding_raised": "Not specified",
+        "location": "New York, USA",
+        "tags": [
+          "investor",
+          "crypto"
+        ]
+      }
     }
   },
   {
@@ -20479,23 +20509,28 @@
     "category": "Investors/Finance",
     "employee_count": "6,000+",
     "location": "New York, USA",
-    "enriched_bio": {
-      "company_details": "Nasdaq is a financial services company with significant assets under management and portfolio companies.",
-      "education_background": "Top-tier business school or finance background.",
-      "career_highlights": "Extensive experience in investment banking, venture capital, or asset management with successful track record of investments and exits.",
-      "recent_news": "Recent fund closures or notable portfolio company exits.",
-      "primer_relevance": "Potential seed or Series A investor for Primer. Experience in edtech or AI investments valuable for growth strategy.",
-      "conversation_starters": [
-        "What's your investment thesis for AI-native education platforms?",
-        "How do you evaluate founder-market fit in the edtech space?",
-        "What metrics matter most for early-stage AI companies?"
-      ],
-      "employee_count": "6,000+",
-      "funding_raised": "Not specified",
-      "location": "New York, USA",
-      "tags": [
-        "investor"
-      ]
+    "number": 1955,
+    "isTopTarget": false,
+    "priorityScore": 0,
+    "enriched": {
+      "enriched_bio": {
+        "company_details": "Nasdaq is a financial services company with significant assets under management and portfolio companies.",
+        "education_background": "Top-tier business school or finance background.",
+        "career_highlights": "Extensive experience in investment banking, venture capital, or asset management with successful track record of investments and exits.",
+        "recent_news": "Recent fund closures or notable portfolio company exits.",
+        "primer_relevance": "Potential seed or Series A investor for Primer. Experience in edtech or AI investments valuable for growth strategy.",
+        "conversation_starters": [
+          "What's your investment thesis for AI-native education platforms?",
+          "How do you evaluate founder-market fit in the edtech space?",
+          "What metrics matter most for early-stage AI companies?"
+        ],
+        "employee_count": "6,000+",
+        "funding_raised": "Not specified",
+        "location": "New York, USA",
+        "tags": [
+          "investor"
+        ]
+      }
     }
   },
   {
@@ -20506,23 +20541,28 @@
     "category": "Investors/VC",
     "employee_count": "600+",
     "location": "New York, USA",
-    "enriched_bio": {
-      "company_details": "General Atlantic is a leading venture capital firm with significant assets under management and portfolio companies.",
-      "education_background": "Top-tier business school or finance background.",
-      "career_highlights": "Extensive experience in investment banking, venture capital, or asset management with successful track record of investments and exits.",
-      "recent_news": "Recent fund closures or notable portfolio company exits.",
-      "primer_relevance": "Potential seed or Series A investor for Primer. Experience in edtech or AI investments valuable for growth strategy.",
-      "conversation_starters": [
-        "What's your investment thesis for AI-native education platforms?",
-        "How do you evaluate founder-market fit in the edtech space?",
-        "What metrics matter most for early-stage AI companies?"
-      ],
-      "employee_count": "600+",
-      "funding_raised": "Not specified",
-      "location": "New York, USA",
-      "tags": [
-        "investor"
-      ]
+    "number": 1956,
+    "isTopTarget": false,
+    "priorityScore": 0,
+    "enriched": {
+      "enriched_bio": {
+        "company_details": "General Atlantic is a leading venture capital firm with significant assets under management and portfolio companies.",
+        "education_background": "Top-tier business school or finance background.",
+        "career_highlights": "Extensive experience in investment banking, venture capital, or asset management with successful track record of investments and exits.",
+        "recent_news": "Recent fund closures or notable portfolio company exits.",
+        "primer_relevance": "Potential seed or Series A investor for Primer. Experience in edtech or AI investments valuable for growth strategy.",
+        "conversation_starters": [
+          "What's your investment thesis for AI-native education platforms?",
+          "How do you evaluate founder-market fit in the edtech space?",
+          "What metrics matter most for early-stage AI companies?"
+        ],
+        "employee_count": "600+",
+        "funding_raised": "Not specified",
+        "location": "New York, USA",
+        "tags": [
+          "investor"
+        ]
+      }
     }
   },
   {
@@ -20533,23 +20573,28 @@
     "category": "Investors/Development",
     "employee_count": "2,000+",
     "location": "Washington D.C., USA",
-    "enriched_bio": {
-      "company_details": "Inter-American Development Bank (IDB) is a financial services company with significant assets under management and portfolio companies.",
-      "education_background": "Top-tier business school or finance background.",
-      "career_highlights": "Extensive experience in investment banking, venture capital, or asset management with successful track record of investments and exits.",
-      "recent_news": "Recent fund closures or notable portfolio company exits.",
-      "primer_relevance": "Potential seed or Series A investor for Primer. Experience in edtech or AI investments valuable for growth strategy.",
-      "conversation_starters": [
-        "What's your investment thesis for AI-native education platforms?",
-        "How do you evaluate founder-market fit in the edtech space?",
-        "What metrics matter most for early-stage AI companies?"
-      ],
-      "employee_count": "2,000+",
-      "funding_raised": "Not specified",
-      "location": "Washington D.C., USA",
-      "tags": [
-        "investor"
-      ]
+    "number": 1957,
+    "isTopTarget": false,
+    "priorityScore": 0,
+    "enriched": {
+      "enriched_bio": {
+        "company_details": "Inter-American Development Bank (IDB) is a financial services company with significant assets under management and portfolio companies.",
+        "education_background": "Top-tier business school or finance background.",
+        "career_highlights": "Extensive experience in investment banking, venture capital, or asset management with successful track record of investments and exits.",
+        "recent_news": "Recent fund closures or notable portfolio company exits.",
+        "primer_relevance": "Potential seed or Series A investor for Primer. Experience in edtech or AI investments valuable for growth strategy.",
+        "conversation_starters": [
+          "What's your investment thesis for AI-native education platforms?",
+          "How do you evaluate founder-market fit in the edtech space?",
+          "What metrics matter most for early-stage AI companies?"
+        ],
+        "employee_count": "2,000+",
+        "funding_raised": "Not specified",
+        "location": "Washington D.C., USA",
+        "tags": [
+          "investor"
+        ]
+      }
     }
   },
   {
@@ -20560,23 +20605,28 @@
     "category": "Tech/Manufacturing",
     "employee_count": "69,000+",
     "location": "Montreal, Canada",
-    "enriched_bio": {
-      "company_details": "Bombardier is a leading technology company focused on social media and AI integration. Known for innovation in its sector.",
-      "education_background": "Typically Ivy League or top-tier university backgrounds in computer science, business, or related fields.",
-      "career_highlights": "Seasoned executive with track record of scaling technology companies, leading product innovation, and driving market expansion.",
-      "recent_news": "Recent funding rounds or product launches in AI/technology space.",
-      "primer_relevance": "Potential technology partner, investor, or customer for Primer's AI-native education platform. Expertise in AI deployment valuable for pedagogical orchestration layer.",
-      "conversation_starters": [
-        "How do you see AI transforming education and workforce development?",
-        "What are the biggest challenges in deploying AI at scale in regulated industries?",
-        "How does your company think about the ethical implications of AI in education?"
-      ],
-      "employee_count": "69,000+",
-      "funding_raised": "Not specified",
-      "location": "Montreal, Canada",
-      "tags": [
-        "tech"
-      ]
+    "number": 1958,
+    "isTopTarget": false,
+    "priorityScore": 0,
+    "enriched": {
+      "enriched_bio": {
+        "company_details": "Bombardier is a leading technology company focused on social media and AI integration. Known for innovation in its sector.",
+        "education_background": "Typically Ivy League or top-tier university backgrounds in computer science, business, or related fields.",
+        "career_highlights": "Seasoned executive with track record of scaling technology companies, leading product innovation, and driving market expansion.",
+        "recent_news": "Recent funding rounds or product launches in AI/technology space.",
+        "primer_relevance": "Potential technology partner, investor, or customer for Primer's AI-native education platform. Expertise in AI deployment valuable for pedagogical orchestration layer.",
+        "conversation_starters": [
+          "How do you see AI transforming education and workforce development?",
+          "What are the biggest challenges in deploying AI at scale in regulated industries?",
+          "How does your company think about the ethical implications of AI in education?"
+        ],
+        "employee_count": "69,000+",
+        "funding_raised": "Not specified",
+        "location": "Montreal, Canada",
+        "tags": [
+          "tech"
+        ]
+      }
     }
   }
 ]
