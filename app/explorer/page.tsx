@@ -56,7 +56,10 @@ export default function ExplorerPage() {
   const enrichedCount = useMemo(() => {
     return attendees.filter(a => {
       const e = a.enriched as any;
-      return e?.company_details || e?.personal_details || e?.biography || e?.enriched_bio;
+      // Check for new enrichment format (company_overview, education_history, career_path, etc.)
+      // or old format (company_details, personal_details, biography, enriched_bio)
+      return e?.company_overview || e?.company_details || e?.education_history || 
+             e?.career_path || e?.personal_details || e?.biography || e?.enriched_bio;
     }).length;
   }, [attendees]);
 
@@ -67,7 +70,9 @@ export default function ExplorerPage() {
     if (activeTab === 'enriched') {
       filtered = filtered.filter(a => {
         const e = a.enriched as any;
-        return e?.company_details || e?.personal_details || e?.biography || e?.enriched_bio;
+        // Check for new enrichment format or old format
+        return e?.company_overview || e?.company_details || e?.education_history || 
+               e?.career_path || e?.personal_details || e?.biography || e?.enriched_bio;
       });
     }
 
