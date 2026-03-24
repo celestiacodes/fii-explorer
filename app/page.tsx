@@ -81,10 +81,7 @@ export default function LoginPage() {
 
           <div className="mt-8 pt-6 border-t border-gray-700">
             <p className="text-gray-500 text-sm text-center">
-              For FII Miami 2026 attendees only
-            </p>
-            <p className="text-gray-500 text-xs text-center mt-2">
-              Password: fiimiami26
+              Authorized access only
             </p>
           </div>
         </div>
