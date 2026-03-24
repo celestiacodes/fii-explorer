@@ -37,22 +37,7 @@
     "linkedin_url": "https://www.linkedin.com/in/khaled-abbas",
     "category": "Middle East",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Abbas, Khaled",
-      "company_description": "Gulf International Bank - Saudi Arabia is a financial institution offering banking and investment services.",
-      "title_context": "Chief Executive Officer at Gulf International Bank - Saudi Arabia is a professional role aligned with the company's industry focus.",
-      "biography": "Abbas, Khaled serves as Chief Executive Officer at Gulf International Bank - Saudi Arabia. Gulf International Bank - Saudi Arabia is a financial institution offering banking and investment services. In this role, Khaled provides strategic leadership and contributes to Gulf International Bank - Saudi Arabia's growth initiatives. With expertise at the intersection of finance and technology, Khaled helps drive Gulf International Bank - Saudi Arabia's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Gateway to Gulf region expansion; Access to sovereign wealth funds investing in edtech",
-      "additional_tags": [
-        "middle-east"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.031348"
-    },
-    "tags": [
-      "middle-east"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 5,
@@ -102,24 +87,7 @@
     "linkedin_url": "https://www.linkedin.com/in/mohamedabdel-halim",
     "category": "Investors",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Abdel-Halim, Mohamed",
-      "company_description": "AQR Capital Management is a global investment firm known for quantitative investing strategies.",
-      "title_context": "Managing Director at AQR Capital Management is a professional role aligned with the company's industry focus.",
-      "biography": "Abdel-Halim, Mohamed serves as Managing Director at AQR Capital Management. AQR Capital Management is a global investment firm known for quantitative investing strategies. In this role, Mohamed provides strategic leadership and contributes to AQR Capital Management's growth initiatives. With expertise at the intersection of finance and technology, Mohamed helps drive AQR Capital Management's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups",
-      "additional_tags": [
-        "director-level",
-        "investor"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.029521"
-    },
-    "tags": [
-      "director-level",
-      "investor"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 10,
@@ -139,22 +107,7 @@
     "linkedin_url": "https://www.linkedin.com/in/emil-abdul-shakoor",
     "category": "Middle East",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Abdul Shakoor, Emil",
-      "company_description": "Saudi National Bank is a financial institution offering banking and investment services.",
-      "title_context": "Head of Asset Allocation at Saudi National Bank is a professional role aligned with the company's industry focus.",
-      "biography": "Abdul Shakoor, Emil serves as Head of Asset Allocation at Saudi National Bank. Saudi National Bank is a financial institution offering banking and investment services. In this role, Emil provides strategic leadership and contributes to Saudi National Bank's growth initiatives. With expertise at the intersection of finance and technology, Emil helps drive Saudi National Bank's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Gateway to Gulf region expansion; Access to sovereign wealth funds investing in edtech",
-      "additional_tags": [
-        "middle-east"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.031362"
-    },
-    "tags": [
-      "middle-east"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 12,
@@ -174,22 +127,7 @@
     "linkedin_url": "https://www.linkedin.com/in/sarah-abdulhadi",
     "category": "Middle East",
     "isTopTarget": true,
-    "priorityScore": 1,
-    "enriched": {
-      "normalized_name": "Abdulhadi, Sarah",
-      "company_description": "Treasury Officer Gulf International Bank - Saudi Arabia is a financial institution offering banking and investment services.",
-      "title_context": "Group Chief Investment & at Treasury Officer Gulf International Bank - Saudi Arabia is a professional role aligned with the company's industry focus.",
-      "biography": "Abdulhadi, Sarah serves as Group Chief Investment & at Treasury Officer Gulf International Bank - Saudi Arabia. Treasury Officer Gulf International Bank - Saudi Arabia is a financial institution offering banking and investment services. In this role, Sarah provides strategic leadership and contributes to Treasury Officer Gulf International Bank - Saudi Arabia's growth initiatives. With expertise at the intersection of finance and technology, Sarah helps drive Treasury Officer Gulf International Bank - Saudi Arabia's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Gateway to Gulf region expansion; Access to sovereign wealth funds investing in edtech",
-      "additional_tags": [
-        "middle-east"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.031375"
-    },
-    "tags": [
-      "middle-east"
-    ]
+    "priorityScore": 1
   },
   {
     "number": 14,
@@ -199,24 +137,7 @@
     "linkedin_url": "https://www.linkedin.com/in/omar-abduljabbar",
     "category": "Tech/AI",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Abduljabbar, H.E. Omar",
-      "company_description": "Hail Regional Development Authority is a technology company operating in the digital or AI space.",
-      "title_context": "CEO at Hail Regional Development Authority is the highest-ranking executive responsible for overall strategy and operations.",
-      "biography": "Abduljabbar, H.E. Omar serves as CEO at Hail Regional Development Authority. Hail Regional Development Authority is a technology company operating in the digital or AI space. In this role, H.E. Omar provides strategic leadership and contributes to Hail Regional Development Authority's growth initiatives. With expertise at the intersection of finance and technology, H.E. Omar helps drive Hail Regional Development Authority's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Technology partnership potential for Primer's AI infrastructure; Expertise in AI product development",
-      "additional_tags": [
-        "executive",
-        "technology"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.030221"
-    },
-    "tags": [
-      "executive",
-      "technology"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 15,
@@ -236,24 +157,7 @@
     "linkedin_url": "https://www.linkedin.com/in/hussainabdulla",
     "category": "Investors",
     "isTopTarget": true,
-    "priorityScore": 3,
-    "enriched": {
-      "normalized_name": "Abdulla, Hussain",
-      "company_description": "Golden Gate Ventures MENA invests in early-stage technology startups across the Middle East and North Africa region.",
-      "title_context": "Partner at Golden Gate Ventures MENA is a senior investment professional with decision-making authority.",
-      "biography": "Abdulla, Hussain serves as Founding Partner at Golden Gate Ventures MENA. Golden Gate Ventures MENA invests in early-stage technology startups across the Middle East and North Africa region. In this role, Hussain provides strategic leadership and contributes to Golden Gate Ventures MENA's growth initiatives. With expertise at the intersection of finance and technology, Hussain helps drive Golden Gate Ventures MENA's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups",
-      "additional_tags": [
-        "investor",
-        "partner-level"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.029535"
-    },
-    "tags": [
-      "partner-level",
-      "investor"
-    ]
+    "priorityScore": 3
   },
   {
     "number": 17,
@@ -273,24 +177,7 @@
     "linkedin_url": "https://www.linkedin.com/in/abdulwahhab-abed",
     "category": "Investors",
     "isTopTarget": true,
-    "priorityScore": 2,
-    "enriched": {
-      "normalized_name": "Abed, Abdulwahhab",
-      "company_description": "SEDCO Capital is a Sharia-compliant asset management firm based in Saudi Arabia.",
-      "title_context": "CEO at SEDCO Capital is the highest-ranking executive responsible for overall strategy and operations.",
-      "biography": "Abed, Abdulwahhab serves as CEO at SEDCO Capital. SEDCO Capital is a Sharia-compliant asset management firm based in Saudi Arabia. In this role, Abdulwahhab provides strategic leadership and contributes to SEDCO Capital's growth initiatives. With expertise at the intersection of finance and technology, Abdulwahhab helps drive SEDCO Capital's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups",
-      "additional_tags": [
-        "investor",
-        "executive"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.029547"
-    },
-    "tags": [
-      "executive",
-      "investor"
-    ]
+    "priorityScore": 2
   },
   {
     "number": 19,
@@ -320,24 +207,7 @@
     "linkedin_url": "https://www.linkedin.com/in/karl-ableidinger",
     "category": "Investors",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Ableidinger, Karl",
-      "company_description": "Stumpf Capital is an investment firm providing capital and strategic support to businesses.",
-      "title_context": "CEO at Stumpf Capital is the highest-ranking executive responsible for overall strategy and operations.",
-      "biography": "Ableidinger, Karl serves as CEO at Stumpf Capital. Stumpf Capital is an investment firm providing capital and strategic support to businesses. In this role, Karl provides strategic leadership and contributes to Stumpf Capital's growth initiatives. With expertise at the intersection of finance and technology, Karl helps drive Stumpf Capital's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups",
-      "additional_tags": [
-        "investor",
-        "executive"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.029559"
-    },
-    "tags": [
-      "executive",
-      "investor"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 22,
@@ -347,26 +217,7 @@
     "linkedin_url": "https://www.linkedin.com/in/dina-aboonoq",
     "category": "Investors",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Aboonoq, Dina",
-      "company_description": "NextEra, a joint venture by Aramco Digital and LTIMindtree is an investment firm providing capital and strategic support to businesses.",
-      "title_context": "CEO at NextEra, a joint venture by Aramco Digital and LTIMindtree is the highest-ranking executive responsible for overall strategy and operations.",
-      "biography": "Aboonoq, Dina serves as CEO at NextEra, a joint venture by Aramco Digital and LTIMindtree. NextEra, a joint venture by Aramco Digital and LTIMindtree is an investment firm providing capital and strategic support to businesses. In this role, Dina provides strategic leadership and contributes to NextEra, a joint venture by Aramco Digital and LTIMindtree's growth initiatives. With expertise at the intersection of finance and technology, Dina helps drive NextEra, a joint venture by Aramco Digital and LTIMindtree's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups; Technology partnership potential for Primer's AI infrastructure",
-      "additional_tags": [
-        "investor",
-        "executive",
-        "technology"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.029572"
-    },
-    "tags": [
-      "technology",
-      "executive",
-      "investor"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 23,
@@ -376,22 +227,7 @@
     "linkedin_url": "https://www.linkedin.com/in/rania-abou-mosleh",
     "category": "Other",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Abou Mosleh, Rania",
-      "company_description": "Smart Communication Systems is a professional services firm in the financial or technology sectors.",
-      "title_context": "CEO at Smart Communication Systems is the highest-ranking executive responsible for overall strategy and operations.",
-      "biography": "Abou Mosleh, Rania serves as CEO at Smart Communication Systems. Smart Communication Systems is a professional services firm in the financial or technology sectors. In this role, Rania provides strategic leadership and contributes to Smart Communication Systems's growth initiatives. With expertise at the intersection of finance and technology, Rania helps drive Smart Communication Systems's mission forward in a competitive market.",
-      "primer_relevance": "Potential indirect relevance through finance/technology networks",
-      "additional_tags": [
-        "executive"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.030236"
-    },
-    "tags": [
-      "executive"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 24,
@@ -401,24 +237,7 @@
     "linkedin_url": "https://www.linkedin.com/in/maha-abouelenein",
     "category": "Tech/AI",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Abouelenein, Maha",
-      "company_description": "Digital and Savvy is a technology company operating in the digital or AI space.",
-      "title_context": "CEO at Digital and Savvy is the highest-ranking executive responsible for overall strategy and operations.",
-      "biography": "Abouelenein, Maha serves as CEO at Digital and Savvy. Digital and Savvy is a technology company operating in the digital or AI space. In this role, Maha provides strategic leadership and contributes to Digital and Savvy's growth initiatives. With expertise at the intersection of finance and technology, Maha helps drive Digital and Savvy's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Technology partnership potential for Primer's AI infrastructure; Expertise in AI product development",
-      "additional_tags": [
-        "executive",
-        "technology"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.030250"
-    },
-    "tags": [
-      "executive",
-      "technology"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 25,
@@ -438,24 +257,7 @@
     "linkedin_url": "https://www.linkedin.com/in/paul-abrahimzadeh",
     "category": "Investors",
     "isTopTarget": true,
-    "priorityScore": 3,
-    "enriched": {
-      "normalized_name": "Abrahimzadeh, Paul",
-      "company_description": "1789 Capital is a venture capital firm investing in late-stage technology companies across AI, software, aerospace, healthtech, and fintech sectors.",
-      "title_context": "Partner at 1789 Capital is a senior investment professional with decision-making authority.",
-      "biography": "Abrahimzadeh, Paul serves as Partner at 1789 Capital. 1789 Capital is a venture capital firm investing in late-stage technology companies across AI, software, aerospace, healthtech, and fintech sectors. In this role, Paul provides strategic leadership and contributes to 1789 Capital's growth initiatives. With expertise at the intersection of finance and technology, Paul helps drive 1789 Capital's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups",
-      "additional_tags": [
-        "investor",
-        "partner-level"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.028507"
-    },
-    "tags": [
-      "partner-level",
-      "investor"
-    ]
+    "priorityScore": 3
   },
   {
     "number": 27,
@@ -465,24 +267,7 @@
     "linkedin_url": "https://www.linkedin.com/in/david-abrams",
     "category": "Investors",
     "isTopTarget": true,
-    "priorityScore": 1,
-    "enriched": {
-      "normalized_name": "Abrams, David",
-      "company_description": "Velocity Capital Management is an investment firm providing capital and strategic support to businesses.",
-      "title_context": "Managing Partner at Velocity Capital Management oversees investment decisions and firm strategy in a venture capital context.",
-      "biography": "Abrams, David serves as Managing Partner at Velocity Capital Management. Velocity Capital Management is an investment firm providing capital and strategic support to businesses. In this role, David provides strategic leadership and contributes to Velocity Capital Management's growth initiatives. With expertise at the intersection of finance and technology, David helps drive Velocity Capital Management's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups",
-      "additional_tags": [
-        "investor",
-        "partner-level"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.029584"
-    },
-    "tags": [
-      "partner-level",
-      "investor"
-    ]
+    "priorityScore": 1
   },
   {
     "number": 28,
@@ -532,24 +317,7 @@
     "linkedin_url": "https://www.linkedin.com/in/raghad-abubakr",
     "category": "Investors",
     "isTopTarget": true,
-    "priorityScore": 3,
-    "enriched": {
-      "normalized_name": "Abubakr, Raghad",
-      "company_description": "Public Investment Fund (PIF) is Saudi Arabia's $900B+ sovereign wealth fund, investing globally in technology, infrastructure, and strategic sectors as part of Vision 2030.",
-      "title_context": "Events & Sponsorships at Public Investment Fund is a professional role aligned with the company's industry focus.",
-      "biography": "Abubakr, Raghad serves as Events & Sponsorships at Public Investment Fund. Public Investment Fund (PIF) is Saudi Arabia's $900B+ sovereign wealth fund, investing globally in technology, infrastructure, and strategic sectors as part of Vision 2030. In this role, Raghad provides strategic leadership and contributes to Public Investment Fund's growth initiatives. With expertise at the intersection of finance and technology, Raghad helps drive Public Investment Fund's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups; Direct access to one of world's largest sovereign wealth funds",
-      "additional_tags": [
-        "sovereign-wealth",
-        "investor"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.029596"
-    },
-    "tags": [
-      "sovereign-wealth",
-      "investor"
-    ]
+    "priorityScore": 3
   },
   {
     "number": 33,
@@ -569,24 +337,7 @@
     "linkedin_url": "https://www.linkedin.com/in/bassam-felix-aburdene",
     "category": "Investors",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Aburdene, Bassam Felix",
-      "company_description": "Capital Trust is an investment firm providing capital and strategic support to businesses.",
-      "title_context": "Chairman at Capital Trust provides board-level strategic guidance.",
-      "biography": "Aburdene, Bassam Felix serves as Chairman at Capital Trust. Capital Trust is an investment firm providing capital and strategic support to businesses. In this role, Bassam Felix provides strategic leadership and contributes to Capital Trust's growth initiatives. With expertise at the intersection of finance and technology, Bassam Felix helps drive Capital Trust's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups",
-      "additional_tags": [
-        "investor",
-        "board-level"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.029609"
-    },
-    "tags": [
-      "investor",
-      "board-level"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 35,
@@ -596,24 +347,7 @@
     "linkedin_url": "https://www.linkedin.com/in/raney-aburdene",
     "category": "Investors",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Aburdene, Raney",
-      "company_description": "CT Capital International is an investment firm providing capital and strategic support to businesses.",
-      "title_context": "Executive Director at CT Capital International is a senior leadership role with operational and strategic responsibilities.",
-      "biography": "Aburdene, Raney serves as Executive Director at CT Capital International. CT Capital International is an investment firm providing capital and strategic support to businesses. In this role, Raney provides strategic leadership and contributes to CT Capital International's growth initiatives. With expertise at the intersection of finance and technology, Raney helps drive CT Capital International's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups",
-      "additional_tags": [
-        "director-level",
-        "investor"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.029621"
-    },
-    "tags": [
-      "director-level",
-      "investor"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 36,
@@ -653,24 +387,7 @@
     "linkedin_url": "https://www.linkedin.com/in/chris-adamo",
     "category": "Investors",
     "isTopTarget": true,
-    "priorityScore": 2,
-    "enriched": {
-      "normalized_name": "Adamo, Chris",
-      "company_description": "Flamingo Capital is a venture capital firm founded by Chris Adamo, investing in innovative technology startups.",
-      "title_context": "Founder of Flamingo Capital established the firm and maintains strategic control.",
-      "biography": "Adamo, Chris serves as Founder at Flamingo Capital. Flamingo Capital is a venture capital firm founded by Chris Adamo, investing in innovative technology startups. In this role, Chris provides strategic leadership and contributes to Flamingo Capital's growth initiatives. With expertise at the intersection of finance and technology, Chris helps drive Flamingo Capital's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups",
-      "additional_tags": [
-        "founder",
-        "investor"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.028528"
-    },
-    "tags": [
-      "founder",
-      "investor"
-    ]
+    "priorityScore": 2
   },
   {
     "number": 40,
@@ -690,24 +407,7 @@
     "linkedin_url": "https://www.linkedin.com/in/nayef-addamigh",
     "category": "Investors",
     "isTopTarget": true,
-    "priorityScore": 3,
-    "enriched": {
-      "normalized_name": "AdDamigh, Eng. Nayef",
-      "company_description": "Public Investment Fund (PIF) is Saudi Arabia's $900B+ sovereign wealth fund, investing globally in technology, infrastructure, and strategic sectors as part of Vision 2030.",
-      "title_context": "AVP at Public Investment Fund is a professional role aligned with the company's industry focus.",
-      "biography": "AdDamigh, Eng. Nayef serves as AVP at Public Investment Fund. Public Investment Fund (PIF) is Saudi Arabia's $900B+ sovereign wealth fund, investing globally in technology, infrastructure, and strategic sectors as part of Vision 2030. In this role, Eng. Nayef provides strategic leadership and contributes to Public Investment Fund's growth initiatives. With expertise at the intersection of finance and technology, Eng. Nayef helps drive Public Investment Fund's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups; Direct access to one of world's largest sovereign wealth funds",
-      "additional_tags": [
-        "sovereign-wealth",
-        "investor"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.029632"
-    },
-    "tags": [
-      "sovereign-wealth",
-      "investor"
-    ]
+    "priorityScore": 3
   },
   {
     "number": 42,
@@ -717,24 +417,7 @@
     "linkedin_url": "https://www.linkedin.com/in/ramy-adeeb",
     "category": "Investors",
     "isTopTarget": true,
-    "priorityScore": 3,
-    "enriched": {
-      "normalized_name": "Adeeb, Ramy",
-      "company_description": "1984 Ventures is an early-stage venture capital firm investing in disruptive technology startups.",
-      "title_context": "Managing Partner at 1984 Ventures oversees investment decisions and firm strategy in a venture capital context.",
-      "biography": "Adeeb, Ramy serves as Managing Partner at 1984 Ventures. 1984 Ventures is an early-stage venture capital firm investing in disruptive technology startups. In this role, Ramy provides strategic leadership and contributes to 1984 Ventures's growth initiatives. With expertise at the intersection of finance and technology, Ramy helps drive 1984 Ventures's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups",
-      "additional_tags": [
-        "investor",
-        "partner-level"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.028541"
-    },
-    "tags": [
-      "partner-level",
-      "investor"
-    ]
+    "priorityScore": 3
   },
   {
     "number": 43,
@@ -874,24 +557,7 @@
     "linkedin_url": "https://www.linkedin.com/in/saleem-ahmad",
     "category": "Investors",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Ahmad, Saleem",
-      "company_description": "Aitchison Partners is an investment firm providing capital and strategic support to businesses.",
-      "title_context": "CEO at Aitchison Partners is the highest-ranking executive responsible for overall strategy and operations.",
-      "biography": "Ahmad, Saleem serves as CEO at Aitchison Partners. Aitchison Partners is an investment firm providing capital and strategic support to businesses. In this role, Saleem provides strategic leadership and contributes to Aitchison Partners's growth initiatives. With expertise at the intersection of finance and technology, Saleem helps drive Aitchison Partners's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups; Technology partnership potential for Primer's AI infrastructure",
-      "additional_tags": [
-        "executive",
-        "technology"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.030262"
-    },
-    "tags": [
-      "executive",
-      "technology"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 57,
@@ -901,24 +567,7 @@
     "linkedin_url": "https://www.linkedin.com/in/zubaid-ahmad",
     "category": "Investors",
     "isTopTarget": true,
-    "priorityScore": 1,
-    "enriched": {
-      "normalized_name": "Ahmad, Zubaid",
-      "company_description": "Caravanserai Partners is an investment firm providing capital and strategic support to businesses.",
-      "title_context": "Managing Partner at Caravanserai Partners oversees investment decisions and firm strategy in a venture capital context.",
-      "biography": "Ahmad, Zubaid serves as Managing Partner at Caravanserai Partners. Caravanserai Partners is an investment firm providing capital and strategic support to businesses. In this role, Zubaid provides strategic leadership and contributes to Caravanserai Partners's growth initiatives. With expertise at the intersection of finance and technology, Zubaid helps drive Caravanserai Partners's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups; Technology partnership potential for Primer's AI infrastructure",
-      "additional_tags": [
-        "partner-level",
-        "technology"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.030274"
-    },
-    "tags": [
-      "partner-level",
-      "technology"
-    ]
+    "priorityScore": 1
   },
   {
     "number": 58,
@@ -948,24 +597,7 @@
     "linkedin_url": "https://www.linkedin.com/in/dominique-ahumada",
     "category": "Investors",
     "isTopTarget": true,
-    "priorityScore": 2,
-    "enriched": {
-      "normalized_name": "Ahumada, Dominique",
-      "company_description": "Lead Edge Capital is a growth-stage investment firm partnering with exceptional technology companies for scaling.",
-      "title_context": "Managing Director at Lead Edge Capital is a professional role aligned with the company's industry focus.",
-      "biography": "Ahumada, Dominique serves as Managing Director at Lead Edge Capital. Lead Edge Capital is a growth-stage investment firm partnering with exceptional technology companies for scaling. In this role, Dominique provides strategic leadership and contributes to Lead Edge Capital's growth initiatives. With expertise at the intersection of finance and technology, Dominique helps drive Lead Edge Capital's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups",
-      "additional_tags": [
-        "director-level",
-        "investor"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.028555"
-    },
-    "tags": [
-      "director-level",
-      "investor"
-    ]
+    "priorityScore": 2
   },
   {
     "number": 61,
@@ -985,24 +617,7 @@
     "linkedin_url": "https://www.linkedin.com/in/prem-akkaraju",
     "category": "Tech/AI",
     "isTopTarget": true,
-    "priorityScore": 2,
-    "enriched": {
-      "normalized_name": "Akkaraju, Prem",
-      "company_description": "Stability AI is a leading open-source artificial intelligence company known for Stable Diffusion and generative AI models.",
-      "title_context": "CEO at Stability AI is the highest-ranking executive responsible for overall strategy and operations.",
-      "biography": "Akkaraju, Prem serves as CEO at Stability AI. Stability AI is a leading open-source artificial intelligence company known for Stable Diffusion and generative AI models. In this role, Prem provides strategic leadership and contributes to Stability AI's growth initiatives. With expertise at the intersection of finance and technology, Prem helps drive Stability AI's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Technology partnership potential for Primer's AI infrastructure; Expertise in AI product development",
-      "additional_tags": [
-        "executive",
-        "technology"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.030285"
-    },
-    "tags": [
-      "executive",
-      "technology"
-    ]
+    "priorityScore": 2
   },
   {
     "number": 63,
@@ -1032,22 +647,7 @@
     "linkedin_url": "https://www.linkedin.com/in/nasser-al-ajaji",
     "category": "Middle East",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Al Ajaji, Nasser",
-      "company_description": "Saudi Exchange is a Saudi Arabian or Gulf region institution involved in finance, investment, or economic development.",
-      "title_context": "Chief of Listing at Saudi Exchange is a professional role aligned with the company's industry focus.",
-      "biography": "Al Ajaji, Nasser serves as Chief of Listing at Saudi Exchange. Saudi Exchange is a Saudi Arabian or Gulf region institution involved in finance, investment, or economic development. In this role, Nasser provides strategic leadership and contributes to Saudi Exchange's growth initiatives. With expertise at the intersection of finance and technology, Nasser helps drive Saudi Exchange's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Gateway to Gulf region expansion; Access to sovereign wealth funds investing in edtech",
-      "additional_tags": [
-        "middle-east"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.031388"
-    },
-    "tags": [
-      "middle-east"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 66,
@@ -1057,22 +657,7 @@
     "linkedin_url": "https://www.linkedin.com/in/mohammed-al-alawi",
     "category": "Middle East",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Al Alawi, Mohammed",
-      "company_description": "Communications Bahrain EDB is a technology company operating in the digital or AI space.",
-      "title_context": "Chief of Marketing & at Communications Bahrain EDB is a professional role aligned with the company's industry focus.",
-      "biography": "Al Alawi, Mohammed serves as Chief of Marketing & at Communications Bahrain EDB. Communications Bahrain EDB is a technology company operating in the digital or AI space. In this role, Mohammed provides strategic leadership and contributes to Communications Bahrain EDB's growth initiatives. With expertise at the intersection of finance and technology, Mohammed helps drive Communications Bahrain EDB's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Technology partnership potential for Primer's AI infrastructure; Expertise in AI product development",
-      "additional_tags": [
-        "technology"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.030299"
-    },
-    "tags": [
-      "technology"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 67,
@@ -1092,22 +677,7 @@
     "linkedin_url": "https://www.linkedin.com/in/nayef-al-athel",
     "category": "Middle East",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Al Athel, Nayef",
-      "company_description": "Marketing Officer Saudi Tadawul Group is a Saudi Arabian or Gulf region institution involved in finance, investment, or economic development.",
-      "title_context": "Group Chief Sales & at Marketing Officer Saudi Tadawul Group is a professional role aligned with the company's industry focus.",
-      "biography": "Al Athel, Nayef serves as Group Chief Sales & at Marketing Officer Saudi Tadawul Group. Marketing Officer Saudi Tadawul Group is a Saudi Arabian or Gulf region institution involved in finance, investment, or economic development. In this role, Nayef provides strategic leadership and contributes to Marketing Officer Saudi Tadawul Group's growth initiatives. With expertise at the intersection of finance and technology, Nayef helps drive Marketing Officer Saudi Tadawul Group's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Gateway to Gulf region expansion; Access to sovereign wealth funds investing in edtech",
-      "additional_tags": [
-        "middle-east"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.031400"
-    },
-    "tags": [
-      "middle-east"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 69,
@@ -1127,24 +697,7 @@
     "linkedin_url": "https://www.linkedin.com/in/bandar-al-blehed",
     "category": "Middle East",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Al Blehed, Bandar",
-      "company_description": "Sustainability Development Saudi Exchange is a Saudi Arabian or Gulf region institution involved in finance, investment, or economic development.",
-      "title_context": "Chief of Clients Relations & at Sustainability Development Saudi Exchange is a professional role aligned with the company's industry focus.",
-      "biography": "Al Blehed, Bandar serves as Chief of Clients Relations & at Sustainability Development Saudi Exchange. Sustainability Development Saudi Exchange is a Saudi Arabian or Gulf region institution involved in finance, investment, or economic development. In this role, Bandar provides strategic leadership and contributes to Sustainability Development Saudi Exchange's growth initiatives. With expertise at the intersection of finance and technology, Bandar helps drive Sustainability Development Saudi Exchange's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Technology partnership potential for Primer's AI infrastructure; Expertise in AI product development; Gateway to Gulf region expansion",
-      "additional_tags": [
-        "middle-east",
-        "technology"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.030313"
-    },
-    "tags": [
-      "middle-east",
-      "technology"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 71,
@@ -1194,22 +747,7 @@
     "linkedin_url": "https://www.linkedin.com/in/majid-bin-ibrahim-al-fayyadh",
     "category": "Tech/AI",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Al Fayyadh, H.E. Dr. Majid",
-      "company_description": "CEO King Faisal Specialist Hospital and Research Center is a technology company operating in the digital or AI space.",
-      "title_context": "Bin Ibrahim at CEO King Faisal Specialist Hospital and Research Center is a professional role aligned with the company's industry focus.",
-      "biography": "Al Fayyadh, H.E. Dr. Majid serves as Bin Ibrahim at CEO King Faisal Specialist Hospital and Research Center. CEO King Faisal Specialist Hospital and Research Center is a technology company operating in the digital or AI space. In this role, H.E. Dr. Majid provides strategic leadership and contributes to CEO King Faisal Specialist Hospital and Research Center's growth initiatives. With expertise at the intersection of finance and technology, H.E. Dr. Majid helps drive CEO King Faisal Specialist Hospital and Research Center's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Technology partnership potential for Primer's AI infrastructure; Expertise in AI product development",
-      "additional_tags": [
-        "technology"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.030329"
-    },
-    "tags": [
-      "technology"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 76,
@@ -1229,22 +767,7 @@
     "linkedin_url": "https://www.linkedin.com/in/turki-al-harbi",
     "category": "Middle East",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Al Harbi, Turki",
-      "company_description": "Embassy of Saudi Arabia is a Saudi Arabian or Gulf region institution involved in finance, investment, or economic development.",
-      "title_context": "Head of Protocol at Embassy of Saudi Arabia is a professional role aligned with the company's industry focus.",
-      "biography": "Al Harbi, Turki serves as Head of Protocol at Embassy of Saudi Arabia. Embassy of Saudi Arabia is a Saudi Arabian or Gulf region institution involved in finance, investment, or economic development. In this role, Turki provides strategic leadership and contributes to Embassy of Saudi Arabia's growth initiatives. With expertise at the intersection of finance and technology, Turki helps drive Embassy of Saudi Arabia's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Gateway to Gulf region expansion; Access to sovereign wealth funds investing in edtech",
-      "additional_tags": [
-        "middle-east"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.031412"
-    },
-    "tags": [
-      "middle-east"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 78,
@@ -1274,24 +797,7 @@
     "linkedin_url": "https://www.linkedin.com/in/khalid-al-hussan",
     "category": "Middle East",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Al Hussan, Eng. Khalid",
-      "company_description": "Saudi Tadawul Group is a Saudi Arabian or Gulf region institution involved in finance, investment, or economic development.",
-      "title_context": "CEO at Saudi Tadawul Group is the highest-ranking executive responsible for overall strategy and operations.",
-      "biography": "Al Hussan, Eng. Khalid serves as CEO at Saudi Tadawul Group. Saudi Tadawul Group is a Saudi Arabian or Gulf region institution involved in finance, investment, or economic development. In this role, Eng. Khalid provides strategic leadership and contributes to Saudi Tadawul Group's growth initiatives. With expertise at the intersection of finance and technology, Eng. Khalid helps drive Saudi Tadawul Group's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Gateway to Gulf region expansion; Access to sovereign wealth funds investing in edtech",
-      "additional_tags": [
-        "executive",
-        "middle-east"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.031425"
-    },
-    "tags": [
-      "middle-east",
-      "executive"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 81,
@@ -1321,22 +827,7 @@
     "linkedin_url": "https://www.linkedin.com/in/noelle-al-jaweini",
     "category": "Middle East",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Al Jaweini, Noelle",
-      "company_description": "Saudi Exchange is a Saudi Arabian or Gulf region institution involved in finance, investment, or economic development.",
-      "title_context": "Chief of Cash Markets at Saudi Exchange is a professional role aligned with the company's industry focus.",
-      "biography": "Al Jaweini, Noelle serves as Chief of Cash Markets at Saudi Exchange. Saudi Exchange is a Saudi Arabian or Gulf region institution involved in finance, investment, or economic development. In this role, Noelle provides strategic leadership and contributes to Saudi Exchange's growth initiatives. With expertise at the intersection of finance and technology, Noelle helps drive Saudi Exchange's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Gateway to Gulf region expansion; Access to sovereign wealth funds investing in edtech",
-      "additional_tags": [
-        "middle-east"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.031437"
-    },
-    "tags": [
-      "middle-east"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 84,
@@ -1476,18 +967,7 @@
     "linkedin_url": "https://www.linkedin.com/in/asaad-al-raeesi",
     "category": "Middle East",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Al Raeesi, Asaad",
-      "company_description": "Foreign Ministry of Oman is a professional services firm in the financial or technology sectors.",
-      "title_context": "Minister's Office at Foreign Ministry of Oman is a professional role aligned with the company's industry focus.",
-      "biography": "Al Raeesi, Asaad serves as Minister's Office at Foreign Ministry of Oman. Foreign Ministry of Oman is a professional services firm in the financial or technology sectors. In this role, Asaad provides strategic leadership and contributes to Foreign Ministry of Oman's growth initiatives. With expertise at the intersection of finance and technology, Asaad helps drive Foreign Ministry of Oman's mission forward in a competitive market.",
-      "primer_relevance": "Potential indirect relevance through finance/technology networks",
-      "additional_tags": [],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.031450"
-    },
-    "tags": []
+    "priorityScore": 0
   },
   {
     "number": 98,
@@ -1507,18 +987,7 @@
     "linkedin_url": "https://www.linkedin.com/in/ahmed-al-sada",
     "category": "Other",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Al Sada, Ahmed",
-      "company_description": "S&P; Global Ratings is a professional services firm in the financial or technology sectors.",
-      "title_context": "Head of Sales, Saudi Arabia at S&P; Global Ratings is a professional role aligned with the company's industry focus.",
-      "biography": "Al Sada, Ahmed serves as Head of Sales, Saudi Arabia at S&P; Global Ratings. S&P; Global Ratings is a professional services firm in the financial or technology sectors. In this role, Ahmed provides strategic leadership and contributes to S&P; Global Ratings's growth initiatives. With expertise at the intersection of finance and technology, Ahmed helps drive S&P; Global Ratings's mission forward in a competitive market.",
-      "primer_relevance": "Potential indirect relevance through finance/technology networks",
-      "additional_tags": [],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.031463"
-    },
-    "tags": []
+    "priorityScore": 0
   },
   {
     "number": 100,
@@ -1618,22 +1087,7 @@
     "linkedin_url": "https://www.linkedin.com/in/khalid-al-sweilem",
     "category": "Tech/AI",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "AL SWEILEM, H.E. Dr.",
-      "company_description": "Chairman EFG-Hermes KSA is a technology company operating in the digital or AI space.",
-      "title_context": "KHALID at Chairman EFG-Hermes KSA is a professional role aligned with the company's industry focus.",
-      "biography": "AL SWEILEM, H.E. Dr. serves as KHALID at Chairman EFG-Hermes KSA. Chairman EFG-Hermes KSA is a technology company operating in the digital or AI space. In this role, H.E. Dr. provides strategic leadership and contributes to Chairman EFG-Hermes KSA's growth initiatives. With expertise at the intersection of finance and technology, H.E. Dr. helps drive Chairman EFG-Hermes KSA's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Technology partnership potential for Primer's AI infrastructure; Expertise in AI product development",
-      "additional_tags": [
-        "technology"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.030342"
-    },
-    "tags": [
-      "technology"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 110,
@@ -1823,30 +1277,7 @@
     "linkedin_url": "https://www.linkedin.com/in/yasir-al-rumayyan",
     "category": "Middle East",
     "isTopTarget": true,
-    "priorityScore": 6,
-    "enriched": {
-      "normalized_name": "Al-Rumayyan, H.E. Yasir",
-      "company_description": "Public Investment Fund (PIF) is Saudi Arabia's $900B+ sovereign wealth fund, investing globally in technology, infrastructure, and strategic sectors as part of Vision 2030.",
-      "title_context": "Governor of PIF oversees Saudi Arabia's $900B+ sovereign wealth fund and its global investment strategy.",
-      "biography": "Al-Rumayyan, H.E. Yasir serves as Governor of the Public at Investment Fund (PIF) Chairman, Saudi Aramco & Chairman, FII Institute Public Investment Fund. Public Investment Fund (PIF) is Saudi Arabia's $900B+ sovereign wealth fund, investing globally in technology, infrastructure, and strategic sectors as part of Vision 2030. In this role, H.E. Yasir provides strategic leadership and contributes to Investment Fund (PIF) Chairman, Saudi Aramco & Chairman, FII Institute Public Investment Fund's growth initiatives. With expertise at the intersection of finance and technology, H.E. Yasir helps drive Investment Fund (PIF) Chairman, Saudi Aramco & Chairman, FII Institute Public Investment Fund's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups; Technology partnership potential for Primer's AI infrastructure",
-      "additional_tags": [
-        "investor",
-        "sovereign-leadership",
-        "middle-east",
-        "sovereign-wealth",
-        "technology"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.028571"
-    },
-    "tags": [
-      "investor",
-      "sovereign-leadership",
-      "middle-east",
-      "sovereign-wealth",
-      "technology"
-    ]
+    "priorityScore": 6
   },
   {
     "number": 129,
@@ -2226,26 +1657,7 @@
     "linkedin_url": "https://www.linkedin.com/in/mulham-albakree",
     "category": "Investors",
     "isTopTarget": true,
-    "priorityScore": 3,
-    "enriched": {
-      "normalized_name": "Albakree, Eng. Mulham",
-      "company_description": "Public Investment Fund (PIF) is Saudi Arabia's $900B+ sovereign wealth fund, investing globally in technology, infrastructure, and strategic sectors as part of Vision 2030.",
-      "title_context": "Executive Director at Public Investment Fund is a senior leadership role with operational and strategic responsibilities.",
-      "biography": "Albakree, Eng. Mulham serves as Executive Director at Public Investment Fund. Public Investment Fund (PIF) is Saudi Arabia's $900B+ sovereign wealth fund, investing globally in technology, infrastructure, and strategic sectors as part of Vision 2030. In this role, Eng. Mulham provides strategic leadership and contributes to Public Investment Fund's growth initiatives. With expertise at the intersection of finance and technology, Eng. Mulham helps drive Public Investment Fund's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups; Direct access to one of world's largest sovereign wealth funds",
-      "additional_tags": [
-        "sovereign-wealth",
-        "director-level",
-        "investor"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.028584"
-    },
-    "tags": [
-      "director-level",
-      "sovereign-wealth",
-      "investor"
-    ]
+    "priorityScore": 3
   },
   {
     "number": 167,
@@ -2565,26 +1977,7 @@
     "linkedin_url": "https://www.linkedin.com/in/ali-alghannam",
     "category": "Investors",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Alghannam, Ali",
-      "company_description": "Tiger Capital AI is an investment firm focused on artificial intelligence companies and AI-driven businesses.",
-      "title_context": "CEO at Tiger Capital AI is the highest-ranking executive responsible for overall strategy and operations.",
-      "biography": "Alghannam, Ali serves as CEO at Tiger Capital AI. Tiger Capital AI is an investment firm focused on artificial intelligence companies and AI-driven businesses. In this role, Ali provides strategic leadership and contributes to Tiger Capital AI's growth initiatives. With expertise at the intersection of finance and technology, Ali helps drive Tiger Capital AI's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups; Technology partnership potential for Primer's AI infrastructure",
-      "additional_tags": [
-        "investor",
-        "executive",
-        "technology"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.028596"
-    },
-    "tags": [
-      "technology",
-      "executive",
-      "investor"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 199,
@@ -2644,26 +2037,7 @@
     "linkedin_url": "https://www.linkedin.com/in/abdulmajeed-alhagbani",
     "category": "Investors",
     "isTopTarget": true,
-    "priorityScore": 3,
-    "enriched": {
-      "normalized_name": "Alhagbani, Abdulmajeed",
-      "company_description": "Public Investment Fund (PIF) is Saudi Arabia's $900B+ sovereign wealth fund, investing globally in technology, infrastructure, and strategic sectors as part of Vision 2030.",
-      "title_context": "Executive Director at Public Investment Fund is a senior leadership role with operational and strategic responsibilities.",
-      "biography": "Alhagbani, Abdulmajeed serves as Executive Director at Public Investment Fund. Public Investment Fund (PIF) is Saudi Arabia's $900B+ sovereign wealth fund, investing globally in technology, infrastructure, and strategic sectors as part of Vision 2030. In this role, Abdulmajeed provides strategic leadership and contributes to Public Investment Fund's growth initiatives. With expertise at the intersection of finance and technology, Abdulmajeed helps drive Public Investment Fund's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups; Direct access to one of world's largest sovereign wealth funds",
-      "additional_tags": [
-        "sovereign-wealth",
-        "director-level",
-        "investor"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.028607"
-    },
-    "tags": [
-      "director-level",
-      "sovereign-wealth",
-      "investor"
-    ]
+    "priorityScore": 3
   },
   {
     "number": 205,
@@ -2793,26 +2167,7 @@
     "linkedin_url": "https://www.linkedin.com/in/yazeed-alhumied",
     "category": "Investors",
     "isTopTarget": true,
-    "priorityScore": 3,
-    "enriched": {
-      "normalized_name": "Alhumied, Yazeed",
-      "company_description": "Public Investment Fund (PIF) is Saudi Arabia's $900B+ sovereign wealth fund, investing globally in technology, infrastructure, and strategic sectors as part of Vision 2030.",
-      "title_context": "Deputy Governor at Public Investment Fund is a professional role aligned with the company's industry focus.",
-      "biography": "Alhumied, Yazeed serves as Deputy Governor at Public Investment Fund. Public Investment Fund (PIF) is Saudi Arabia's $900B+ sovereign wealth fund, investing globally in technology, infrastructure, and strategic sectors as part of Vision 2030. In this role, Yazeed provides strategic leadership and contributes to Public Investment Fund's growth initiatives. With expertise at the intersection of finance and technology, Yazeed helps drive Public Investment Fund's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups; Direct access to one of world's largest sovereign wealth funds",
-      "additional_tags": [
-        "sovereign-wealth",
-        "sovereign-leadership",
-        "investor"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.028624"
-    },
-    "tags": [
-      "sovereign-wealth",
-      "sovereign-leadership",
-      "investor"
-    ]
+    "priorityScore": 3
   },
   {
     "number": 218,
@@ -3082,26 +2437,7 @@
     "linkedin_url": "https://www.linkedin.com/in/mussab-alkhudairi",
     "category": "Investors",
     "isTopTarget": true,
-    "priorityScore": 3,
-    "enriched": {
-      "normalized_name": "Alkhudairi, Eng. Mussab",
-      "company_description": "Public Investment Fund (PIF) is Saudi Arabia's $900B+ sovereign wealth fund, investing globally in technology, infrastructure, and strategic sectors as part of Vision 2030.",
-      "title_context": "Executive Director at Public Investment Fund is a senior leadership role with operational and strategic responsibilities.",
-      "biography": "Alkhudairi, Eng. Mussab serves as Executive Director at Public Investment Fund. Public Investment Fund (PIF) is Saudi Arabia's $900B+ sovereign wealth fund, investing globally in technology, infrastructure, and strategic sectors as part of Vision 2030. In this role, Eng. Mussab provides strategic leadership and contributes to Public Investment Fund's growth initiatives. With expertise at the intersection of finance and technology, Eng. Mussab helps drive Public Investment Fund's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups; Direct access to one of world's largest sovereign wealth funds",
-      "additional_tags": [
-        "sovereign-wealth",
-        "director-level",
-        "investor"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.028635"
-    },
-    "tags": [
-      "director-level",
-      "sovereign-wealth",
-      "investor"
-    ]
+    "priorityScore": 3
   },
   {
     "number": 245,
@@ -3631,24 +2967,7 @@
     "linkedin_url": "https://www.linkedin.com/in/saleh-alrasheed",
     "category": "Investors",
     "isTopTarget": true,
-    "priorityScore": 3,
-    "enriched": {
-      "normalized_name": "AlRasheed, Saleh",
-      "company_description": "Public Investment Fund (PIF) is Saudi Arabia's $900B+ sovereign wealth fund, investing globally in technology, infrastructure, and strategic sectors as part of Vision 2030.",
-      "title_context": "Vice President at Public Investment Fund is a professional role aligned with the company's industry focus.",
-      "biography": "AlRasheed, Saleh serves as Vice President at Public Investment Fund. Public Investment Fund (PIF) is Saudi Arabia's $900B+ sovereign wealth fund, investing globally in technology, infrastructure, and strategic sectors as part of Vision 2030. In this role, Saleh provides strategic leadership and contributes to Public Investment Fund's growth initiatives. With expertise at the intersection of finance and technology, Saleh helps drive Public Investment Fund's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups; Direct access to one of world's largest sovereign wealth funds",
-      "additional_tags": [
-        "sovereign-wealth",
-        "investor"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.032627"
-    },
-    "tags": [
-      "sovereign-wealth",
-      "investor"
-    ]
+    "priorityScore": 3
   },
   {
     "number": 298,
@@ -4988,24 +4307,7 @@
     "linkedin_url": "https://www.linkedin.com/in/shad-azimi",
     "category": "Investors",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Azimi, Shad",
-      "company_description": "Vanterra Capital is an investment firm providing capital and strategic support to businesses.",
-      "title_context": "CEO at Vanterra Capital is the highest-ranking executive responsible for overall strategy and operations.",
-      "biography": "Azimi, Shad serves as CEO at Vanterra Capital. Vanterra Capital is an investment firm providing capital and strategic support to businesses. In this role, Shad provides strategic leadership and contributes to Vanterra Capital's growth initiatives. With expertise at the intersection of finance and technology, Shad helps drive Vanterra Capital's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups",
-      "additional_tags": [
-        "investor",
-        "executive"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.032638"
-    },
-    "tags": [
-      "executive",
-      "investor"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 432,
@@ -7001,7 +6303,7 @@
     "number": 631,
     "name": "Cisneros, Adriana",
     "title": "CEO",
-    "company": "Cisneros \u25a0 FAMILY / ASSOCIATED YACHT \u25a0 Family Yacht: Lionwind (47m, ~$10M) [Gustavo Cisneros, father]",
+    "company": "Cisneros ■ FAMILY / ASSOCIATED YACHT ■ Family Yacht: Lionwind (47m, ~$10M) [Gustavo Cisneros, father]",
     "linkedin_url": "https://www.linkedin.com/in/mauricio-claver-carone",
     "category": "Other",
     "isTopTarget": false,
@@ -7551,7 +6853,7 @@
     "number": 686,
     "name": "Dangote, Aliko",
     "title": "President",
-    "company": "Dangote Group \u25a0 CONFIRMED YACHT OWNER \u25a0 Yacht: Mariya (33m, ~$5M)",
+    "company": "Dangote Group ■ CONFIRMED YACHT OWNER ■ Yacht: Mariya (33m, ~$5M)",
     "linkedin_url": "https://www.linkedin.com/in/nd-dashdorj-onom",
     "category": "Other",
     "isTopTarget": false,
@@ -9305,22 +8607,7 @@
     "linkedin_url": "https://www.linkedin.com/in/john-fryer",
     "category": "Other",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Frankowska, Anna",
-      "company_description": "Graceful Finance is a professional services firm in the financial or technology sectors.",
-      "title_context": "CEO at Graceful Finance is the highest-ranking executive responsible for overall strategy and operations.",
-      "biography": "Frankowska, Anna serves as CEO at Graceful Finance. Graceful Finance is a professional services firm in the financial or technology sectors. In this role, Anna provides strategic leadership and contributes to Graceful Finance's growth initiatives. With expertise at the intersection of finance and technology, Anna helps drive Graceful Finance's mission forward in a competitive market.",
-      "primer_relevance": "Potential indirect relevance through finance/technology networks",
-      "additional_tags": [
-        "executive"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.032530"
-    },
-    "tags": [
-      "executive"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 862,
@@ -10660,24 +9947,7 @@
     "linkedin_url": "https://www.linkedin.com/in/ali-hasoosah",
     "category": "Investors",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Harrouche, Isaac",
-      "company_description": "154 Partners is an investment firm providing capital and strategic support to businesses.",
-      "title_context": "CEO at 154 Partners is the highest-ranking executive responsible for overall strategy and operations.",
-      "biography": "Harrouche, Isaac serves as CEO & Co-Founder at 154 Partners. 154 Partners is an investment firm providing capital and strategic support to businesses. In this role, Isaac provides strategic leadership and contributes to 154 Partners's growth initiatives. With expertise at the intersection of finance and technology, Isaac helps drive 154 Partners's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups",
-      "additional_tags": [
-        "founder",
-        "executive"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.032616"
-    },
-    "tags": [
-      "founder",
-      "executive"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 996,
@@ -11163,7 +10433,7 @@
     "number": 1044,
     "name": "Hovnanian, Ara",
     "title": "CEO",
-    "company": "Hovnanian Enterprises \u25a0 FAMILY / ASSOCIATED YACHT \u25a0 Family Yacht: Lady Anna (37m, ~$10M) [Hirair Hovnanian, father]",
+    "company": "Hovnanian Enterprises ■ FAMILY / ASSOCIATED YACHT ■ Family Yacht: Lady Anna (37m, ~$10M) [Hirair Hovnanian, father]",
     "linkedin_url": "https://www.linkedin.com/in/siyu-huang",
     "category": "Tech/AI",
     "isTopTarget": false,
@@ -11903,7 +11173,7 @@
     "number": 1118,
     "name": "Juffali, Khaled",
     "title": "Chairman",
-    "company": "E.A. Juffali & Brothers \u25a0 CONFIRMED YACHT OWNER \u25a0 Yacht: Kolaha (63m, ~$70M)",
+    "company": "E.A. Juffali & Brothers ■ CONFIRMED YACHT OWNER ■ Yacht: Kolaha (63m, ~$70M)",
     "linkedin_url": "https://www.linkedin.com/in/daniel-kahan",
     "category": "Other",
     "isTopTarget": false,
@@ -12013,7 +11283,7 @@
     "number": 1129,
     "name": "Kamel, Abdullah",
     "title": "Chairman",
-    "company": "Dallah Al Baraka Holding Group \u25a0 CONFIRMED YACHT OWNER \u25a0 Yacht: Naia (74m, ~$100M) [Dallah al Baraka Group]",
+    "company": "Dallah Al Baraka Holding Group ■ CONFIRMED YACHT OWNER ■ Yacht: Naia (74m, ~$100M) [Dallah al Baraka Group]",
     "linkedin_url": "https://www.linkedin.com/in/mostafakandil",
     "category": "Tech/AI",
     "isTopTarget": false,
@@ -12937,26 +12207,7 @@
     "linkedin_url": "https://www.linkedin.com/in/maged-latif",
     "category": "Investors",
     "isTopTarget": true,
-    "priorityScore": 1,
-    "enriched": {
-      "normalized_name": "LaPaglia, Erik",
-      "company_description": "NextTech Ventures is an investment firm providing capital and strategic support to businesses.",
-      "title_context": "Managing Partner at NextTech Ventures oversees investment decisions and firm strategy in a venture capital context.",
-      "biography": "LaPaglia, Erik serves as Managing Partner at NextTech Ventures. NextTech Ventures is an investment firm providing capital and strategic support to businesses. In this role, Erik provides strategic leadership and contributes to NextTech Ventures's growth initiatives. With expertise at the intersection of finance and technology, Erik helps drive NextTech Ventures's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups; Technology partnership potential for Primer's AI infrastructure",
-      "additional_tags": [
-        "investor",
-        "partner-level",
-        "technology"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.032555"
-    },
-    "tags": [
-      "partner-level",
-      "technology",
-      "investor"
-    ]
+    "priorityScore": 1
   },
   {
     "number": 1222,
@@ -13112,26 +12363,11 @@
     "number": 1237,
     "name": "Lee, Isaac",
     "title": "Chairman",
-    "company": "HYBE Latin Am\u00e9rica",
+    "company": "HYBE Latin América",
     "linkedin_url": "https://www.linkedin.com/in/tony-lefebvre",
     "category": "Other",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Lee, Isaac",
-      "company_description": "HYBE Latin Am\u00e9rica is a professional services firm in the financial or technology sectors.",
-      "title_context": "Chairman at HYBE Latin Am\u00e9rica provides board-level strategic guidance.",
-      "biography": "Lee, Isaac serves as Chairman at HYBE Latin Am\u00e9rica. HYBE Latin Am\u00e9rica is a professional services firm in the financial or technology sectors. In this role, Isaac provides strategic leadership and contributes to HYBE Latin Am\u00e9rica's growth initiatives. With expertise at the intersection of finance and technology, Isaac helps drive HYBE Latin Am\u00e9rica's mission forward in a competitive market.",
-      "primer_relevance": "Potential indirect relevance through finance/technology networks",
-      "additional_tags": [
-        "board-level"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.032604"
-    },
-    "tags": [
-      "board-level"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 1238,
@@ -13447,7 +12683,7 @@
     "number": 1269,
     "name": "Londono, Nicolas",
     "title": "Managing Partner",
-    "company": "FRAM Capital / SAMA\u00daMA",
+    "company": "FRAM Capital / SAMAÚMA",
     "linkedin_url": "https://www.linkedin.com/in/alessiolorusso",
     "category": "Investors",
     "isTopTarget": true,
@@ -13475,7 +12711,7 @@
   },
   {
     "number": 1272,
-    "name": "L\u00f3pez, Diego",
+    "name": "López, Diego",
     "title": "CEO",
     "company": "Global SWF",
     "linkedin_url": "https://www.linkedin.com/in/fation-losha",
@@ -13801,18 +13037,7 @@
     "linkedin_url": "https://www.linkedin.com/in/abubakrmalida",
     "category": "Other",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Mailaender, Emily",
-      "company_description": "Colossal is a professional services firm in the financial or technology sectors.",
-      "title_context": "Vice President at Colossal is a professional role aligned with the company's industry focus.",
-      "biography": "Mailaender, Emily serves as Vice President at Colossal. Colossal is a professional services firm in the financial or technology sectors. In this role, Emily provides strategic leadership and contributes to Colossal's growth initiatives. With expertise at the intersection of finance and technology, Emily helps drive Colossal's mission forward in a competitive market.",
-      "primer_relevance": "Potential indirect relevance through finance/technology networks",
-      "additional_tags": [],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.032579"
-    },
-    "tags": []
+    "priorityScore": 0
   },
   {
     "number": 1305,
@@ -14036,7 +13261,7 @@
   },
   {
     "number": 1327,
-    "name": "Martel, \u00c9ric",
+    "name": "Martel, Éric",
     "title": "CEO",
     "company": "Bombardier",
     "linkedin_url": "https://www.linkedin.com/in/robert-masson",
@@ -14386,7 +13611,7 @@
   },
   {
     "number": 1362,
-    "name": "Medina, Mar\u00eda Laura",
+    "name": "Medina, María Laura",
     "title": "CEO",
     "company": "MYST",
     "linkedin_url": "https://www.linkedin.com/in/hadi-melki",
@@ -14446,7 +13671,7 @@
   },
   {
     "number": 1368,
-    "name": "Melo, Germ\u00e1n",
+    "name": "Melo, Germán",
     "title": "Vice President",
     "company": "Central & Eastern European Trade Center",
     "linkedin_url": "https://www.linkedin.com/in/justis-mendez",
@@ -14892,22 +14117,7 @@
     "linkedin_url": "https://www.linkedin.com/in/andoni-moreno-batanero",
     "category": "Other",
     "isTopTarget": false,
-    "priorityScore": 0,
-    "enriched": {
-      "normalized_name": "Moinian, Joseph",
-      "company_description": "The Moinian Group is a professional services firm in the financial or technology sectors.",
-      "title_context": "CEO at The Moinian Group is the highest-ranking executive responsible for overall strategy and operations.",
-      "biography": "Moinian, Joseph serves as CEO at The Moinian Group. The Moinian Group is a professional services firm in the financial or technology sectors. In this role, Joseph provides strategic leadership and contributes to The Moinian Group's growth initiatives. With expertise at the intersection of finance and technology, Joseph helps drive The Moinian Group's mission forward in a competitive market.",
-      "primer_relevance": "Potential indirect relevance through finance/technology networks",
-      "additional_tags": [
-        "executive"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.032543"
-    },
-    "tags": [
-      "executive"
-    ]
+    "priorityScore": 0
   },
   {
     "number": 1413,
@@ -15751,7 +14961,7 @@
   },
   {
     "number": 1497,
-    "name": "Ocampo, Andr\u00e9s",
+    "name": "Ocampo, Andrés",
     "title": "CEO",
     "company": "Lanco Medical Group",
     "linkedin_url": "https://www.linkedin.com/in/sunny-oller",
@@ -16363,7 +15573,7 @@
     "number": 1558,
     "name": "Penske, Mark",
     "title": "CEO",
-    "company": "United Atlantic Capital \u25a0 FAMILY / ASSOCIATED YACHT \u25a0 Family Yacht: Podium (73m, ~$125M) [Roger Penske, family]",
+    "company": "United Atlantic Capital ■ FAMILY / ASSOCIATED YACHT ■ Family Yacht: Podium (73m, ~$125M) [Roger Penske, family]",
     "linkedin_url": "https://www.linkedin.com/in/michaelpetley",
     "category": "Investors",
     "isTopTarget": false,
@@ -16651,7 +15861,7 @@
   },
   {
     "number": 1587,
-    "name": "Prince Proulx, V\u00e9ronique",
+    "name": "Prince Proulx, Véronique",
     "title": "Manager, Communications",
     "company": "Bombardier",
     "linkedin_url": "https://www.linkedin.com/in/sasha-qadri",
@@ -17087,24 +16297,7 @@
     "linkedin_url": "https://www.linkedin.com/in/nic-robinson",
     "category": "Investors",
     "isTopTarget": true,
-    "priorityScore": 1,
-    "enriched": {
-      "normalized_name": "Rifki, Dr. Manal",
-      "company_description": "IVC Funds is an investment firm providing capital and strategic support to businesses.",
-      "title_context": "Partner at IVC Funds is a senior investment professional with decision-making authority.",
-      "biography": "Rifki, Dr. Manal serves as Partner at IVC Funds. IVC Funds is an investment firm providing capital and strategic support to businesses. In this role, Dr. Manal provides strategic leadership and contributes to IVC Funds's growth initiatives. With expertise at the intersection of finance and technology, Dr. Manal helps drive IVC Funds's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups",
-      "additional_tags": [
-        "investor",
-        "partner-level"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.032567"
-    },
-    "tags": [
-      "partner-level",
-      "investor"
-    ]
+    "priorityScore": 1
   },
   {
     "number": 1631,
@@ -17650,7 +16843,7 @@
     "number": 1685,
     "name": "Salinas Pliego, Ricardo B.",
     "title": "Founder",
-    "company": "Grupo Salinas \u25a0 CONFIRMED YACHT OWNER \u25a0 Yacht: Lady Moura (104m, ~$250M)",
+    "company": "Grupo Salinas ■ CONFIRMED YACHT OWNER ■ Yacht: Lady Moura (104m, ~$250M)",
     "linkedin_url": "https://www.linkedin.com/in/mohamednizar-sanadiki",
     "category": "Other",
     "isTopTarget": false,
@@ -17840,7 +17033,7 @@
     "number": 1704,
     "name": "Saylor, Michael",
     "title": "Chairman",
-    "company": "MicroStrategy \u25a0 CONFIRMED YACHT OWNER \u25a0 Yachts: Harle (45m, ~$30M) & Usher (47m, ~$15M)",
+    "company": "MicroStrategy ■ CONFIRMED YACHT OWNER ■ Yachts: Harle (45m, ~$30M) & Usher (47m, ~$15M)",
     "linkedin_url": "https://www.linkedin.com/in/christian-schroeder",
     "category": "Other",
     "isTopTarget": false,
@@ -19428,7 +18621,7 @@
   },
   {
     "number": 1863,
-    "name": "Trigueiro, M\u00e1rcio",
+    "name": "Trigueiro, Márcio",
     "title": "Partner",
     "company": "Patria Investments",
     "linkedin_url": "https://www.linkedin.com/in/michaeltymchuk",
@@ -19454,24 +18647,7 @@
     "linkedin_url": "https://www.linkedin.com/in/mihir-unadkat",
     "category": "Investors",
     "isTopTarget": true,
-    "priorityScore": 3,
-    "enriched": {
-      "normalized_name": "Trump Jr, Donald",
-      "company_description": "1789 Capital is a venture capital firm investing in late-stage technology companies across AI, software, aerospace, healthtech, and fintech sectors.",
-      "title_context": "Partner at 1789 Capital is a senior investment professional with decision-making authority.",
-      "biography": "Trump Jr, Donald serves as Partner at 1789 Capital. 1789 Capital is a venture capital firm investing in late-stage technology companies across AI, software, aerospace, healthtech, and fintech sectors. In this role, Donald provides strategic leadership and contributes to 1789 Capital's growth initiatives. With expertise at the intersection of finance and technology, Donald helps drive 1789 Capital's mission forward in a competitive market.",
-      "primer_relevance": "Relevant to Primer because: Potential investor for Primer's seed/growth rounds; Access to investment networks for edtech/AI startups",
-      "additional_tags": [
-        "investor",
-        "partner-level"
-      ],
-      "enrichment_source": "intelligent_synthesis",
-      "enriched_at": "2026-03-24T08:47:19.032590"
-    },
-    "tags": [
-      "partner-level",
-      "investor"
-    ]
+    "priorityScore": 3
   },
   {
     "number": 1866,
@@ -19625,7 +18801,7 @@
   },
   {
     "number": 1881,
-    "name": "Vall\u00e9e, Esther",
+    "name": "Vallée, Esther",
     "title": "Lead Marketing Strategy |",
     "company": "Americas Bombardier",
     "linkedin_url": "https://www.linkedin.com/in/nicole-vasquez",

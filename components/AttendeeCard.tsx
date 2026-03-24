@@ -1,6 +1,7 @@
 import { FaLinkedin } from 'react-icons/fa';
-import { Star, Building, Briefcase } from 'lucide-react';
+import { Star, Building, Briefcase, Info } from 'lucide-react';
 import { Attendee } from '@/types/attendee';
+import { useState } from 'react';
 
 interface AttendeeCardProps {
   attendee: Attendee;
@@ -16,6 +17,8 @@ const categoryColors: Record<string, string> = {
 };
 
 export default function AttendeeCard({ attendee }: AttendeeCardProps) {
+  const [showBio, setShowBio] = useState(false);
+  
   return (
     <div className={`group relative bg-gray-900/50 backdrop-blur-sm rounded-xl border border-gray-800 p-4 hover:border-gray-700 transition-all duration-200 hover:shadow-xl hover:shadow-gray-900/30 ${attendee.isTopTarget ? 'ring-1 ring-yellow-500/30' : ''}`}>
       {/* Top Target Badge */}
@@ -63,17 +66,49 @@ export default function AttendeeCard({ attendee }: AttendeeCardProps) {
         </span>
       </div>
 
+      {/* Enriched Bio (if available) */}
+      {attendee.enriched && (
+        <div className="mb-3">
+          <button
+            onClick={() => setShowBio(!showBio)}
+            className="inline-flex items-center gap-1.5 text-xs text-gray-400 hover:text-gray-300 transition-colors"
+          >
+            <Info className="w-3 h-3" />
+            {showBio ? 'Hide bio' : 'Show bio'}
+          </button>
+          {showBio && (
+            <div className="mt-2 p-3 bg-gray-800/50 rounded-lg border border-gray-700">
+              <p className="text-sm text-gray-300">{attendee.enriched.biography}</p>
+              {attendee.enriched.primer_relevance && (
+                <div className="mt-2 pt-2 border-t border-gray-700">
+                  <p className="text-xs text-blue-300 font-medium">Primer Relevance:</p>
+                  <p className="text-xs text-gray-400 mt-0.5">{attendee.enriched.primer_relevance}</p>
+                </div>
+              )}
+            </div>
+          )}
+        </div>
+      )}
+
       {/* LinkedIn Link */}
       <div className="flex items-center justify-between pt-3 border-t border-gray-800">
-        <a
-          href={attendee.linkedin_url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-flex items-center gap-2 text-sm text-blue-400 hover:text-blue-300 transition-colors group/link"
-        >
-          <FaLinkedin className="w-4 h-4" />
-          <span className="group-hover/link:underline">LinkedIn</span>
-        </a>
+        <div className="flex items-center gap-3">
+          <a
+            href={attendee.linkedin_url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 text-sm text-blue-400 hover:text-blue-300 transition-colors group/link"
+          >
+            <FaLinkedin className="w-4 h-4" />
+            <span className="group-hover/link:underline">LinkedIn</span>
+          </a>
+          {attendee.enriched && (
+            <div className="text-xs text-green-400 flex items-center gap-1">
+              <Info className="w-3 h-3" />
+              Enriched
+            </div>
+          )}
+        </div>
         
         <div className="text-xs text-gray-500">
           #{attendee.number.toString().padStart(4, '0')}
